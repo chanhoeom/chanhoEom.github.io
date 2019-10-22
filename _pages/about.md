@@ -12,19 +12,6 @@ redirect_from:
 
 Hi! I'm Chanho Eom, a student at the [School of Electrical & Electronic Engineering](http://ee.yonsei.ac.kr/ee_en/index.do), [Yonsei Univeristy](https://www.yonsei.ac.kr/en_sc/), Seoul, Korea, under the supervision of Prof. [Bumsub Ham](https://bsham.github.io/).
 
-## Publications
-* **Temporally Consistent Depth Prediction with Flow-Guided Memory Units**  
-(TITS 2019)
-[paper](https://ieeexplore.ieee.org/document/8848860) \|
-[code](https://github.com/cvlab-yonsei/projects/tree/master/FlowGRU/codes) \|
-[project](https://cvlab-yonsei.github.io/projects/FlowGRU/)
-
-* **Learning Disentangled Representation for Robust Person Re-identification**  
-(NeurIPS 2019)
-[paper]() \|
-[code](https://github.com/cvlab-yonsei/projects/tree/master/ISGAN/codes) \|
-[project](https://cvlab-yonsei.github.io/projects/ISGAN/)
-
 ## Educations
 * **B.S**. at the [School of Electrical & Electronic Engineering](http://ee.yonsei.ac.kr/ee_en/index.do), [Yonsei Univeristy](https://www.yonsei.ac.kr/en_sc/), Seoul, Korea (Mar. 2012 ~ Feb. 2017)
 * **Ph.D candidate** at the [School of Electrical & Electronic Engineering](http://ee.yonsei.ac.kr/ee_en/index.do), [Yonsei Univeristy](https://www.yonsei.ac.kr/en_sc/), Seoul, Korea (Mar. 2017 ~ present)
@@ -38,6 +25,22 @@ Hi! I'm Chanho Eom, a student at the [School of Electrical & Electronic Engineer
 * **Computer vision** & **Machine learning**
   - monocular depth estimation
   - person/vehicle retrieval (re-identification)
+
+## Publications
+* **Temporally Consistent Depth Prediction with Flow-Guided Memory Units**  
+(TITS 2019)
+[paper](https://ieeexplore.ieee.org/document/8848860) \|
+[code](https://github.com/cvlab-yonsei/projects/tree/master/FlowGRU/codes) \|
+[project](https://cvlab-yonsei.github.io/projects/FlowGRU/)
+
+* **Learning Disentangled Representation for Robust Person Re-identification**  
+(NeurIPS 2019)
+[paper]() \|
+[code](https://github.com/cvlab-yonsei/projects/tree/master/ISGAN/codes) \|
+[project](https://cvlab-yonsei.github.io/projects/ISGAN/)
+  
+## Awards
+* Travel Award, NeurIPS, 2019
   
 ## Patent
 * to be updated soon
