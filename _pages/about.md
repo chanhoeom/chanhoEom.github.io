@@ -15,7 +15,7 @@ Hi! I'm Chanho Eom, a student at the [School of Electrical & Electronic Engineer
 ## Publications
 * **Temporally Consistent Depth Prediction with Flow-Guided Memory Units**  
 (TITS 2019)
-[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8848860) \|
+[paper](https://ieeexplore.ieee.org/document/8848860) \|
 [code](https://github.com/cvlab-yonsei/projects/tree/master/FlowGRU/codes) \|
 [project](https://cvlab-yonsei.github.io/projects/FlowGRU/)
 
