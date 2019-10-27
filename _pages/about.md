@@ -36,7 +36,7 @@ Hi! I'm Chanho Eom, a student at the [School of Electrical & Electronic Engineer
 * **Learning Disentangled Representation for Robust Person Re-identification**  
 (NeurIPS 2019)
 [paper]() \|
-[code](https://github.com/cvlab-yonsei/projects/tree/master/ISGAN/codes) \|
+[code](https://github.com/cvlab-yonsei/projects/tree/master/ISGAN/code) \|
 [project](https://cvlab-yonsei.github.io/projects/ISGAN/)
   
 ## Awards
