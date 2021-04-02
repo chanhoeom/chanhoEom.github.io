@@ -40,7 +40,6 @@ Hi! I'm Chanho Eom, a student at the [School of Electrical & Electronic Engineer
 [project](https://cvlab-yonsei.github.io/projects/ISGAN/)
 
 ## Awards
-* Best Poster Award, Yonsei EE Workshop 2019
 * Travel Award, NeurIPS 2019
   
 ## Patent
