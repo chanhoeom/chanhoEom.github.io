@@ -43,7 +43,7 @@ Hi! I'm Chanho Eom, a student at the [School of Electrical & Electronic Engineer
 * Travel Award, NeurIPS 2019
   
 ## Patent
-* Person re-identification apparatus and method, Korea, 10-2019-0104887, filied on Mar. 2021
+* Person re-identification apparatus and method, Korea, 10-2019-0104887, Mar. 2021
   
 ## Software Proficiency
 * C/C++
