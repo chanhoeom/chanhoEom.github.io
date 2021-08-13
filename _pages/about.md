@@ -24,7 +24,8 @@ Hi! I'm Chanho Eom, a student at the [School of Electrical & Electronic Engineer
 ## Research Interest
 * **Computer vision** & **Machine learning**
   - monocular depth estimation
-  - person/vehicle retrieval (re-identification)
+  - image/video retrieval (person re-identification)
+  - domain adaptation
 
 ## Publications
 
