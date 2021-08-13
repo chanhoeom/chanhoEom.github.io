@@ -63,9 +63,9 @@ Chanho Eom, Hyunjong Park, and Bumsub Ham
 
 ## Teaching/Service
 * TA at Yonsei Univ.  
-2017-1: Data Structure and Algorithms (EEE2020)
-2018-2: Aritifial Intelligence (EEE3314)
-2019-1: Signal Processing Lab (EEE4423)
+2017-1: Data Structure and Algorithms (EEE2020)  
+2018-2: Aritifial Intelligence (EEE3314)  
+2019-1: Signal Processing Lab (EEE4423)  
   
 ## Software Proficiency
 * Python
