@@ -29,7 +29,8 @@ Hi! I'm Chanho Eom, a student at the [School of Electrical & Electronic Engineer
 
 ## Publications
 
-* **Video-based Person Re-identification with Spatial and Temporal Memory Networks**  
+* **Video-based Person Re-identification with Spatial and Temporal Memory Networks**,
+Chanho Eom, Geon Lee, Junghyup Lee, and Bumsub Ham
 (ICCV 2021)
 [paper]() \|
 [code]() \|
