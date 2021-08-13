@@ -27,17 +27,24 @@ Hi! I'm Chanho Eom, a student at the [School of Electrical & Electronic Engineer
   - person/vehicle retrieval (re-identification)
 
 ## Publications
-* **Temporally Consistent Depth Prediction with Flow-Guided Memory Units**  
-(TITS 2019)
-[paper](https://ieeexplore.ieee.org/document/8848860) \|
-[code](https://github.com/cvlab-yonsei/FlowGRU) \|
-[project](https://cvlab-yonsei.github.io/projects/FlowGRU/)
+
+* **Video-based Person Re-identification with Spatial and Temporal Memory Networks**  
+(ICCV 2021)
+[paper]() \|
+[code]() \|
+[project]()
 
 * **Learning Disentangled Representation for Robust Person Re-identification**  
 (NeurIPS 2019)
 [paper](https://papers.nips.cc/paper/2019/file/d3aeec875c479e55d1cdeea161842ec6-Paper.pdf) \|
 [code](https://github.com/cvlab-yonsei/ISGAN) \|
 [project](https://cvlab-yonsei.github.io/projects/ISGAN/)
+
+* **Temporally Consistent Depth Prediction with Flow-Guided Memory Units**  
+(TITS 2019)
+[paper](https://ieeexplore.ieee.org/document/8848860) \|
+[code](https://github.com/cvlab-yonsei/FlowGRU) \|
+[project](https://cvlab-yonsei.github.io/projects/FlowGRU/)
 
 ## Awards
 * Travel Award, NeurIPS 2019
@@ -46,11 +53,11 @@ Hi! I'm Chanho Eom, a student at the [School of Electrical & Electronic Engineer
 * Person re-identification apparatus and method, Korea, 10-2019-0104887, Mar. 2021
   
 ## Software Proficiency
-* C/C++
 * Python
-* MATLAB
-* Tensorflow
 * Pytorch
+* Tensorflow
+* C/C++
+* MATLAB
 
 ## Contact
 * B703, the 2rd engineering building, Yonsei university, 50 Yonsei-ro, Seodaemun-Gu, Seoul, 120-749, Korea.
