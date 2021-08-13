@@ -45,7 +45,7 @@ Chanho Eom, Hyunjong Park, and Bumsub Ham
 [project](https://cvlab-yonsei.github.io/projects/FlowGRU/)
 
 ## Invited Talks
-* [Naver](https://www.navercorp.com/en/naver/company) CLOVA AI, Tech Talk 2020  
+* [Naver](https://www.navercorp.com/en/naver/company) CLOVA AI (Tech Talk 2020)
 [video](https://www.youtube.com/watch?v=_bQvGy80MS0) \|
 [slides](https://www.facebook.com/677413542326125/posts/3110595645674557/)
 
