@@ -16,11 +16,6 @@ Hi! I'm Chanho Eom, a student at the [School of Electrical & Electronic Engineer
 * **B.S**. at the [School of Electrical & Electronic Engineering](http://ee.yonsei.ac.kr/ee_en/index.do), [Yonsei Univeristy](https://www.yonsei.ac.kr/en_sc/), Seoul, Korea (Mar. 2012 ~ Feb. 2017)
 * **Ph.D candidate** at the [School of Electrical & Electronic Engineering](http://ee.yonsei.ac.kr/ee_en/index.do), [Yonsei Univeristy](https://www.yonsei.ac.kr/en_sc/), Seoul, Korea (Mar. 2017 ~ present)
 
-## Experience
-* **Exchange Student** at the [School of Electrical and Computer Engineering](https://www.ece.ucsb.edu/), [University of California, Santa Barbara](https://www.ucsb.edu/), United States (Jan. 2015 ~ Jun. 2015)
-* **Software Engineer Intern** at the [SENSORWAY](http://www.sensorway.co.kr/eng/), Seoul, Korea (Jun. 2015 ~ Feb. 2016)
-  - Participated in projects on Perimiter Intrusion Detection System (PIDS) for security solution 
-
 ## Research Interest
 * **Computer vision** & **Machine learning**
   - image/video retrieval (person re-identification)
@@ -28,7 +23,6 @@ Hi! I'm Chanho Eom, a student at the [School of Electrical & Electronic Engineer
   - monocular depth estimation
 
 ## Publications
-
 * **Video-based Person Re-identification with Spatial and Temporal Memory Networks**  
 Chanho Eom, Geon Lee, Junghyup Lee, and Bumsub Ham  
 (ICCV 2021)
@@ -50,12 +44,22 @@ Chanho Eom, Hyunjong Park, and Bumsub Ham
 [code](https://github.com/cvlab-yonsei/FlowGRU) \|
 [project](https://cvlab-yonsei.github.io/projects/FlowGRU/)
 
+## Invited Talks
+* [Naver](https://www.navercorp.com/en/naver/company) CLOVA AI, Tech Talk 2020  
+[video](https://www.youtube.com/watch?v=_bQvGy80MS0) \|
+[slides](https://www.facebook.com/677413542326125/posts/3110595645674557/)
+
 ## Awards
 * Travel Award, NeurIPS 2019
   
 ## Patent
 * Person re-identification apparatus and method, Korea, 10-2019-0104887, Mar. 2021
 * Device and Method for Estimating Depth of Monocular Video, Korea, 10-2019-0156863, Jun. 2021.
+
+## Experience
+* **Exchange Student** at the [School of Electrical and Computer Engineering](https://www.ece.ucsb.edu/), [University of California, Santa Barbara](https://www.ucsb.edu/), United States (Jan. 2015 ~ Jun. 2015)
+* **Software Engineer Intern** at the [SENSORWAY](http://www.sensorway.co.kr/eng/), Seoul, Korea (Jun. 2015 ~ Feb. 2016)
+  - Participated in projects on Perimiter Intrusion Detection System (PIDS) for security solution 
   
 ## Software Proficiency
 * Python
