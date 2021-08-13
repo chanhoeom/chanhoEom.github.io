@@ -55,6 +55,7 @@ Chanho Eom, Hyunjong Park, and Bumsub Ham
   
 ## Patent
 * Person re-identification apparatus and method, Korea, 10-2019-0104887, Mar. 2021
+* Device and Method for Estimating Depth of Monocular Video, Korea, 10-2019-0156863, Jun. 2021.
   
 ## Software Proficiency
 * Python
