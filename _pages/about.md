@@ -29,14 +29,12 @@ Chanho Eom, Geon Lee, Junghyup Lee, and Bumsub Ham
 [paper]() \|
 [code]() \|
 [project]()
-
 * **Learning Disentangled Representation for Robust Person Re-identification**  
 Chanho Eom and Bumsub Ham  
 (NeurIPS 2019)
 [paper](https://papers.nips.cc/paper/2019/file/d3aeec875c479e55d1cdeea161842ec6-Paper.pdf) \|
 [code](https://github.com/cvlab-yonsei/ISGAN) \|
 [project](https://cvlab-yonsei.github.io/projects/ISGAN/)
-
 * **Temporally Consistent Depth Prediction with Flow-Guided Memory Units**  
 Chanho Eom, Hyunjong Park, and Bumsub Ham  
 (TITS 2019)
@@ -45,12 +43,15 @@ Chanho Eom, Hyunjong Park, and Bumsub Ham
 [project](https://cvlab-yonsei.github.io/projects/FlowGRU/)
 
 ## Invited Talks
-* [Naver](https://www.navercorp.com/en/naver/company) CLOVA AI (Tech Talk 2020)
+* [KCCV 2020](https://kcvs.kr), oral/poster presentations, Aug. 2020.  
+* [Naver](https://www.navercorp.com/en/naver/company) CLOVA AI Tech Talk, Jan. 2020,
 [video](https://www.youtube.com/watch?v=_bQvGy80MS0) \|
 [slides](https://www.facebook.com/677413542326125/posts/3110595645674557/)
-
+* Workshop on Frontiers of Electrical Engineering (FREE), Oct. 2019. 
+ 
 ## Awards
 * Travel Award, NeurIPS 2019
+* Best Poster Award (the 1st place), Workshop on Frontiers of Electrical Engineering (FREE) 2019, Yonsei University
   
 ## Patent
 * Person re-identification apparatus and method, Korea, 10-2019-0104887, Mar. 2021
@@ -63,9 +64,9 @@ Chanho Eom, Hyunjong Park, and Bumsub Ham
 
 ## Teaching
 * Teaching assistant at Yonsei Univ.  
-2017-1: Data Structure and Algorithms (EEE2020)  
-2018-2: Aritifial Intelligence (EEE3314)  
 2019-1: Signal Processing Lab (EEE4423)  
+2018-2: Aritifial Intelligence (EEE3314)  
+2017-1: Data Structure and Algorithms (EEE2020)  
   
 ## Software Proficiency
 * Python
