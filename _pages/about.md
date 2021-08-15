@@ -18,9 +18,9 @@ Hi! I'm Chanho Eom, a student at the [School of Electrical & Electronic Engineer
 
 ## Research Interest
 * **Computer vision** & **Machine learning**
-  - image/video retrieval (person re-identification)
-  - domain adaptation
-  - monocular depth estimation
+  image/video retrieval (person re-identification)  
+  domain adaptation  
+  monocular depth estimation  
 
 ## Publications
 * **Video-based Person Re-identification with Spatial and Temporal Memory Networks**  
@@ -67,11 +67,11 @@ Chanho Eom, Hyunjong Park, and Bumsub Ham
 2017-1: Data Structure and Algorithms (EEE2020)  
   
 ## Software Proficiency
-* Python
-* Pytorch
-* Tensorflow
-* C/C++
-* MATLAB
+Python  
+Pytorch  
+Tensorflow  
+C/C++  
+MATLAB  
 
 ## Contact
 * B703, the 2rd engineering building, Yonsei university, 50 Yonsei-ro, Seodaemun-Gu, Seoul, 120-749, Korea.
