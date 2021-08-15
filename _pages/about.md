@@ -17,7 +17,7 @@ Hi! I'm Chanho Eom, a student at the [School of Electrical & Electronic Engineer
 * **Ph.D candidate** at the [School of Electrical & Electronic Engineering](http://ee.yonsei.ac.kr/ee_en/index.do), [Yonsei Univeristy](https://www.yonsei.ac.kr/en_sc/), Seoul, Korea (Mar. 2017 ~ present)
 
 ## Research Interest
-* **Computer vision** & **Machine learning**
+* Computer vision & Machine learning
   image/video retrieval (person re-identification)  
   domain adaptation  
   monocular depth estimation  
