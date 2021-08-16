@@ -49,7 +49,7 @@ Chanho Eom, Hyunjong Park, and Bumsub Ham
  
 ## Awards
 * Travel Award, NeurIPS 2019
-* Best Poster Award (the 1st place), Workshop on Frontiers of Electrical Engineering (FREE) 2019, Yonsei University
+* Best Poster Award, Workshop on Frontiers of Electrical Engineering (FREE) 2019, Yonsei University
   
 ## Patent
 * Person re-identification apparatus and method, Korea, 10-2019-0104887, Mar. 2021
