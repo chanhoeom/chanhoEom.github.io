@@ -24,19 +24,19 @@ Hi! I'm Chanho Eom, a student at the [School of Electrical & Electronic Engineer
 
 ## Publications
 * **Video-based Person Re-identification with Spatial and Temporal Memory Networks**  
-__Chanho Eom__, Geon Lee, Junghyup Lee, and Bumsub Ham  
+<u>Chanho Eom<\u>, Geon Lee, Junghyup Lee, and Bumsub Ham  
 (ICCV 2021)
 [paper]() \|
 [code]() \|
 [project]()
 * **Learning Disentangled Representation for Robust Person Re-identification**  
-__Chanho Eom__ and Bumsub Ham  
+<u>Chanho Eom<\u> and Bumsub Ham  
 (NeurIPS 2019)
 [paper](https://papers.nips.cc/paper/2019/file/d3aeec875c479e55d1cdeea161842ec6-Paper.pdf) \|
 [code](https://github.com/cvlab-yonsei/ISGAN) \|
 [project](https://cvlab-yonsei.github.io/projects/ISGAN/)
 * **Temporally Consistent Depth Prediction with Flow-Guided Memory Units**  
-__Chanho Eom__, Hyunjong Park, and Bumsub Ham  
+<u>Chanho Eom<\u>, Hyunjong Park, and Bumsub Ham  
 (TITS 2019)
 [paper](https://ieeexplore.ieee.org/document/8848860) \|
 [code](https://github.com/cvlab-yonsei/FlowGRU) \|
