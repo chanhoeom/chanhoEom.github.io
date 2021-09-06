@@ -27,7 +27,6 @@ Hi! I'm Chanho Eom, a student at the [School of Electrical & Electronic Engineer
 Chanho Eom, Geon Lee, Junghyup Lee, and Bumsub Ham  
 (ICCV 2021)
 [paper](https://arxiv.org/abs/2108.09039) \|
-[code](https://github.com/cvlab-yonsei/STMN) \|
 [project](https://cvlab.yonsei.ac.kr/projects/STMN/)
 * **Learning Disentangled Representation for Robust Person Re-identification**  
 Chanho Eom and Bumsub Ham  
