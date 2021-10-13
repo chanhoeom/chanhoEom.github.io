@@ -51,8 +51,10 @@ Chanho Eom, Hyunjong Park, and Bumsub Ham
 * Best Award, Workshop on Frontiers of Electrical Engineering (FREE) 2019, Yonsei University
 
 ## Projects
-* The Development of Camera-based Human Attribute Recognition Method for Improving Robot Cognitive Ability, Hyundai Motors, Apr. 2021 ~ Apr. 2024
-* Deep identification and tracking of missing person in heterogeneous CCTV, National Research Foundation of Korea (NRF), Oct. 2018 ~ June 2023
+* The Development of Camera-based Human Attribute Recognition Method for Improving Robot Cognitive Ability  
+*Hyundai Motors, Apr. 2021 ~ Apr. 2024*
+* Deep identification and tracking of missing person in heterogeneous CCTV  
+*National Research Foundation of Korea (NRF), Oct. 2018 ~ June 2023*
 
 ## Patent
 * Person re-identification apparatus and method, Korea, 10-2019-0104887, Mar. 2021
