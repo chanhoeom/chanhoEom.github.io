@@ -64,9 +64,9 @@ Chanho Eom, Hyunjong Park, and Bumsub Ham
   - Participated in projects on Perimiter Intrusion Detection System (PIDS) for security solution
 
 ## Professional Activities
-* Reviewers
-International Journal of Computer Vision (IJCV)
-IEEE Trans. Multimedia (TMM)
+* Reviewers  
+International Journal of Computer Vision (IJCV)  
+IEEE Trans. Multimedia (TMM)  
 
 ## Teaching
 * Teaching assistant at Yonsei Univ.  
