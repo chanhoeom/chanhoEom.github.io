@@ -42,22 +42,31 @@ Chanho Eom, Hyunjong Park, and Bumsub Ham
 [project](https://cvlab-yonsei.github.io/projects/FlowGRU/)
 
 ## Invited Talks
-* [KCCV 2020](https://kcvs.kr), oral/poster presentations, Aug. 2020.  
-* [Naver](https://www.navercorp.com/en/naver/company) CLOVA AI Tech Talk ([video](https://www.youtube.com/watch?v=_bQvGy80MS0) \|[slides](https://www.facebook.com/677413542326125/posts/3110595645674557/)), Jan. 2020.  
-* Workshop on Frontiers of Electrical Engineering (FREE), Oct. 2019. 
+* [KCCV 2020](https://kcvs.kr), oral/poster presentations, Aug. 2020
+* [Naver](https://www.navercorp.com/en/naver/company) CLOVA AI Tech Talk ([video](https://www.youtube.com/watch?v=_bQvGy80MS0) \|[slides](https://www.facebook.com/677413542326125/posts/3110595645674557/)), Jan. 2020
+* Workshop on Frontiers of Electrical Engineering (FREE), Oct. 2019
  
 ## Awards
 * Travel Award, NeurIPS 2019
-* Best Poster Award, Workshop on Frontiers of Electrical Engineering (FREE) 2019, Yonsei University
-  
+* Best Award, Workshop on Frontiers of Electrical Engineering (FREE) 2019, Yonsei University
+
+## Projects
+* The Development of Camera-based Human Attribute Recognition Method for Improving Robot Cognitive Ability, Hyundai Motors, Apr. 2021 ~ Apr. 2024
+* Deep identification and tracking of missing person in heterogeneous CCTV, National Research Foundation of Korea (NRF), Oct. 2018 ~ June 2023
+
 ## Patent
 * Person re-identification apparatus and method, Korea, 10-2019-0104887, Mar. 2021
-* Device and Method for Estimating Depth of Monocular Video, Korea, 10-2019-0156863, Jun. 2021.
+* Device and Method for Estimating Depth of Monocular Video, Korea, 10-2019-0156863, Jun. 2021
 
 ## Experience
 * **Exchange Student** at the [School of Electrical and Computer Engineering](https://www.ece.ucsb.edu/), [University of California, Santa Barbara](https://www.ucsb.edu/), United States (Jan. 2015 ~ Jun. 2015)
 * **Software Engineer Intern** at the [SENSORWAY](http://www.sensorway.co.kr/eng/), Seoul, Korea (Jun. 2015 ~ Feb. 2016)
   - Participated in projects on Perimiter Intrusion Detection System (PIDS) for security solution
+
+## Professional Activities
+* Reviewers
+International Journal of Computer Vision (IJCV)
+IEEE Trans. Multimedia (TMM)
 
 ## Teaching
 * Teaching assistant at Yonsei Univ.  
@@ -70,7 +79,7 @@ Python
 Pytorch  
 Tensorflow  
 C/C++  
-MATLAB  
+MATLAB
 
 ## Contact
 * B703, the 2rd engineering building, Yonsei university, 50 Yonsei-ro, Seodaemun-Gu, Seoul, 120-749, Korea.
