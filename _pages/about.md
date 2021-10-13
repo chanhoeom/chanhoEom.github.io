@@ -52,7 +52,7 @@ Chanho Eom, Hyunjong Park, and Bumsub Ham
 
 ## Projects
 * The Development of Camera-based Human Attribute Recognition Method for Improving Robot Cognitive Ability  
-######*Hyundai Motors, Apr. 2021 ~ Apr. 2024*######
+###### *Hyundai Motors, Apr. 2021 ~ Apr. 2024*
 * Deep identification and tracking of missing person in heterogeneous CCTV  
 *National Research Foundation of Korea (NRF), Oct. 2018 ~ June 2023*
 
