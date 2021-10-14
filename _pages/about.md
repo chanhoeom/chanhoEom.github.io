@@ -10,7 +10,7 @@ redirect_from:
 
 <!--![cheom](../images/cheom_zermatt_pointing.jpeg)-->
 
-Hi! I'm Chanho Eom, a student at the [School of Electrical & Electronic Engineering](http://ee.yonsei.ac.kr/ee_en/index.do), [Yonsei Univeristy](https://www.yonsei.ac.kr/en_sc/), Seoul, Korea, under the supervision of Prof. [Bumsub Ham](https://bsham.github.io/).
+I'm Chanho Eom, a student at the School of Electrical & Electronic Engineering, Yonsei Univeristy, Seoul, Korea, under the supervision of Prof. [Bumsub Ham](https://cvlab.yonsei.ac.kr).
 
 ## Educations
 * **B.S**. at the School of Electrical & Electronic Engineering, Yonsei Univeristy, Seoul, Korea (Mar. 2012 ~ Feb. 2017)
@@ -43,7 +43,7 @@ Chanho Eom, Hyunjong Park, and Bumsub Ham
 
 ## Invited Talks
 * [KCCV 2020](https://kcvs.kr), oral/poster presentations, Aug. 2020
-* [Naver](https://www.navercorp.com/en/naver/company) CLOVA AI Tech Talk ([video](https://www.youtube.com/watch?v=_bQvGy80MS0) \|[slides](https://www.facebook.com/677413542326125/posts/3110595645674557/)), Jan. 2020
+* Naver CLOVA AI Tech Talk ([video](https://www.youtube.com/watch?v=_bQvGy80MS0) \|[slides](https://www.facebook.com/677413542326125/posts/3110595645674557/)), Jan. 2020
  
 ## Awards
 * Travel Award, NeurIPS 2019
@@ -57,11 +57,6 @@ Chanho Eom, Hyunjong Park, and Bumsub Ham
 * Person re-identification apparatus and method, Korea, 10-2019-0104887, Mar. 2021
 * Device and Method for Estimating Depth of Monocular Video, Korea, 10-2019-0156863, Jun. 2021
 
-## Experience
-* **Exchange Student** at the [School of Electrical and Computer Engineering](https://www.ece.ucsb.edu/), [University of California, Santa Barbara](https://www.ucsb.edu/), United States (Jan. 2015 ~ Jun. 2015)
-* **Software Engineer Intern** at the [SENSORWAY](http://www.sensorway.co.kr/eng/), Seoul, Korea (Jun. 2015 ~ Feb. 2016)
-  - Participated in projects on Perimiter Intrusion Detection System (PIDS) for security solution
-
 ## Professional Activities
 * Reviewers  
 International Journal of Computer Vision (IJCV)  
@@ -71,7 +66,12 @@ IEEE Trans. Multimedia (TMM)
 * Teaching assistant at Yonsei Univ.  
 2019-1: Signal Processing Lab (EEE4423)  
 2018-2: Aritifial Intelligence (EEE3314)  
-2017-1: Data Structure and Algorithms (EEE2020)  
+2017-1: Data Structure and Algorithms (EEE2020)
+
+## Experience
+* **Exchange Student** at the School of Electrical and Computer Engineering, [University of California, Santa Barbara](https://www.ucsb.edu/), United States (Jan. 2015 ~ Jun. 2015)
+* **Software Engineer Intern** at the [SENSORWAY](http://www.sensorway.co.kr/eng/), Seoul, Korea (Jun. 2015 ~ Feb. 2016)
+  - Participated in projects on Perimiter Intrusion Detection System (PIDS) for security solution
   
 ## Software Proficiency
 Python  
@@ -79,9 +79,5 @@ Pytorch
 Tensorflow  
 C/C++  
 MATLAB
-
-## Contact
-* B703, the 2rd engineering building, Yonsei university, 50 Yonsei-ro, Seodaemun-Gu, Seoul, 120-749, Korea.
-* cheom@yonsei.ac.kr
 
 ![cvlab_logo](../images/cvlab_logo.png)
