@@ -44,7 +44,6 @@ Chanho Eom, Hyunjong Park, and Bumsub Ham
 ## Invited Talks
 * [KCCV 2020](https://kcvs.kr), oral/poster presentations, Aug. 2020
 * [Naver](https://www.navercorp.com/en/naver/company) CLOVA AI Tech Talk ([video](https://www.youtube.com/watch?v=_bQvGy80MS0) \|[slides](https://www.facebook.com/677413542326125/posts/3110595645674557/)), Jan. 2020
-* Workshop on Frontiers of Electrical Engineering (FREE), Oct. 2019
  
 ## Awards
 * Travel Award, NeurIPS 2019
