@@ -31,18 +31,18 @@ Chanho Eom, Geon Lee, Junghyup Lee, and Bumsub Ham
 (ICCV 2021)
 [paper](https://arxiv.org/abs/2108.09039) \|
 [project](https://cvlab.yonsei.ac.kr/projects/STMN/)
+* **Temporally Consistent Depth Prediction with Flow-Guided Memory Units**  
+Chanho Eom, Hyunjong Park, and Bumsub Ham  
+(TITS 2020)
+[paper](https://ieeexplore.ieee.org/document/8848860) \|
+[code](https://github.com/cvlab-yonsei/FlowGRU) \|
+[project](https://cvlab-yonsei.github.io/projects/FlowGRU/)
 * **Learning Disentangled Representation for Robust Person Re-identification**  
 Chanho Eom and Bumsub Ham  
 (NeurIPS 2019)
 [paper](https://papers.nips.cc/paper/2019/file/d3aeec875c479e55d1cdeea161842ec6-Paper.pdf) \|
 [code](https://github.com/cvlab-yonsei/ISGAN) \|
 [project](https://cvlab-yonsei.github.io/projects/ISGAN/)
-* **Temporally Consistent Depth Prediction with Flow-Guided Memory Units**  
-Chanho Eom, Hyunjong Park, and Bumsub Ham  
-(TITS 2019)
-[paper](https://ieeexplore.ieee.org/document/8848860) \|
-[code](https://github.com/cvlab-yonsei/FlowGRU) \|
-[project](https://cvlab-yonsei.github.io/projects/FlowGRU/)
 
 ## Invited Talks
 * [KCCV 2020](https://kcvs.kr), oral/poster presentations, Aug. 2020
