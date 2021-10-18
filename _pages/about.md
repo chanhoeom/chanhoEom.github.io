@@ -25,7 +25,7 @@ I'm Chanho Eom, a student at the School of Electrical & Electronic Engineering, 
 ## Publications
 * **IS-GAN: Learning Disentangled Representation for Robust Person Re-identification**  
 Chanho Eom, Wonkyung Lee, Geon Lee, and Bumsub Ham  
-(TPAMI 2021)
+(TPAMI accepted)
 * **Video-based Person Re-identification with Spatial and Temporal Memory Networks**  
 Chanho Eom, Geon Lee, Junghyup Lee, and Bumsub Ham  
 (ICCV 2021)
