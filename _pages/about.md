@@ -23,7 +23,7 @@ I'm Chanho Eom, a student at the School of Electrical & Electronic Engineering, 
   - monocular depth estimation  
 
 ## Publications
-* **IS-GAN: Learning Disentangled Representation for Robust Person Re-identification**  
+* **Disentangled Representations for Short-Term and Long-Term Person Re-identification**  
 Chanho Eom, Wonkyung Lee, Geon Lee, and Bumsub Ham  
 (TPAMI accepted)
 * **Video-based Person Re-identification with Spatial and Temporal Memory Networks**  
