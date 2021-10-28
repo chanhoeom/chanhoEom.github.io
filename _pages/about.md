@@ -33,7 +33,7 @@ Chanho Eom, Geon Lee, Junghyup Lee, and Bumsub Ham
 [project](https://cvlab.yonsei.ac.kr/projects/STMN/)
 * **Temporally Consistent Depth Prediction with Flow-Guided Memory Units**.\
 Chanho Eom, Hyunjong Park and Bumsub Ham.\
-*IEEE Trans. Intell. Transp. Syst. (TITS)*, vol. 21, no. 11, pp. 4626-4636, Nov. 2020.
+*IEEE Trans. Intell. Transp. Syst. (TITS)*, vol. 21, no. 11, pp. 4626-4636, Nov. 2020.  
 [paper](https://ieeexplore.ieee.org/document/8848860) \|
 [code](https://github.com/cvlab-yonsei/FlowGRU) \|
 [project](https://cvlab-yonsei.github.io/projects/FlowGRU/)
@@ -47,7 +47,7 @@ Chanho Eom and Bumsub Ham
 
 ## Invited Talks
 * [KCCV 2020](https://kcvs.kr), oral/poster presentations, Aug. 2020
-* Naver CLOVA AI Tech Talk ([video](https://www.youtube.com/watch?v=_bQvGy80MS0) \|[slides](https://www.facebook.com/677413542326125/posts/3110595645674557/)), Jan. 2020
+* Naver CLOVA AI Tech Talk ([video](https://www.youtube.com/watch?v=_bQvGy80MS0) \| [slides](https://www.facebook.com/677413542326125/posts/3110595645674557/)), Jan. 2020
  
 ## Awards
 * Travel Award, NeurIPS 2019
