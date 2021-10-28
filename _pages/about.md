@@ -17,7 +17,7 @@ I'm Chanho Eom, a student at the School of Electrical & Electronic Engineering, 
 * **Ph.D candidate** at the School of Electrical & Electronic Engineering, Yonsei Univeristy, Seoul, Korea (Mar. 2017 ~ present)
 
 # Publications
-### International Journal
+### Journal
 * **Disentangled Representations for Short-Term and Long-Term Person Re-identification**  
 Chanho Eom, Wonkyung Lee, Geon Lee, and Bumsub Ham  
 *IEEE Trans. Pattern Anal. Mach. Intell. (TPAMI)* (accepted)
@@ -29,7 +29,7 @@ Chanho Eom, Hyunjong Park and Bumsub Ham.\
 [code](https://github.com/cvlab-yonsei/FlowGRU) \|
 [project](https://cvlab-yonsei.github.io/projects/FlowGRU/)
 
-### International Conference
+### Conference
 * **Video-based Person Re-identification with Spatial and Temporal Memory Networks**  
 Chanho Eom, Geon Lee, Junghyup Lee, and Bumsub Ham  
 *IEEE Conf. Comput. Vis. (ICCV)*, Oct. 2021.  
@@ -43,19 +43,19 @@ Chanho Eom and Bumsub Ham
 [code](https://github.com/cvlab-yonsei/ISGAN) \|
 [project](https://cvlab-yonsei.github.io/projects/ISGAN/)
 
-## Invited Talks
+# Invited Talks
 * [KCCV 2020](https://kcvs.kr), oral/poster presentations, Aug. 2020.
 * Naver CLOVA AI Tech Talk ([video](https://www.youtube.com/watch?v=_bQvGy80MS0) \| [slides](https://www.facebook.com/677413542326125/posts/3110595645674557/)), Jan. 2020.
  
-## Awards
+# Awards
 * Travel Award, NeurIPS 2019
 * Best Award, Workshop on Frontiers of Electrical Engineering (FREE) 2019, Yonsei University
 
-## Projects
+# Projects
 * The Development of Camera-based Human Attribute Recognition Method for Improving Robot Cognitive Ability, *Hyundai Motors, Apr. 2021 ~ Apr. 2024*  
 * Deep identification and tracking of missing person in heterogeneous CCTV, *National Research Foundation of Korea (NRF), Oct. 2018 ~ June 2023*  
 
-## Patent
+# Patent
 ### International
 * **Device and Method for Estimating Depth of Monocular Video**  
 *PCT/KR2019/018413, Dec. 2019. (Application)*
@@ -70,23 +70,23 @@ Chanho Eom and Bumsub Ham
 * **Device and Method for Estimating Depth of Monocular Video**  
 *10-2019-0156863, Jun. 2021. (Registration)*
 
-## Professional Activities
+# Professional Activities
 * Reviewers  
 International Journal of Computer Vision (IJCV)  
 IEEE Trans. Multimedia (TMM)  
 
-## Teaching
+# Teaching
 * Teaching assistant at Yonsei Univ.  
 2019-1: Signal Processing Lab (EEE4423)  
 2018-2: Aritifial Intelligence (EEE3314)  
 2017-1: Data Structure and Algorithms (EEE2020)
 
-## Experience
+# Experience
 * **Exchange Student** at the School of Electrical and Computer Engineering, [University of California, Santa Barbara](https://www.ucsb.edu/), United States (Jan. 2015 ~ Jun. 2015)
 * **Software Engineer Intern** at the [SENSORWAY](http://www.sensorway.co.kr/eng/), Seoul, Korea (Jun. 2015 ~ Feb. 2016)
   - Participated in projects on Perimiter Intrusion Detection System (PIDS) for security solution
   
-## Software Proficiency
+# Software Proficiency
 Python  
 Pytorch  
 Tensorflow  
