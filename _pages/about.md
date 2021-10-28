@@ -31,12 +31,13 @@ Chanho Eom, Geon Lee, Junghyup Lee, and Bumsub Ham
 (ICCV 2021)
 [paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Eom_Video-Based_Person_Re-Identification_With_Spatial_and_Temporal_Memory_Networks_ICCV_2021_paper.pdf) \|
 [project](https://cvlab.yonsei.ac.kr/projects/STMN/)
-* **Temporally Consistent Depth Prediction with Flow-Guided Memory Units**  
-Chanho Eom, Hyunjong Park, and Bumsub Ham  
-(TITS 2020)
+* **Temporally Consistent Depth Prediction with Flow-Guided Memory Units**.\
+Chanho Eom, Hyunjong Park and Bumsub Ham.\
+*IEEE Trans. Intell. Transp. Syst. (TITS)*, vol. 21, no. 11, pp. 4626-4636, Nov. 2020.
 [paper](https://ieeexplore.ieee.org/document/8848860) \|
 [code](https://github.com/cvlab-yonsei/FlowGRU) \|
 [project](https://cvlab-yonsei.github.io/projects/FlowGRU/)
+
 * **Learning Disentangled Representation for Robust Person Re-identification**  
 Chanho Eom and Bumsub Ham  
 (NeurIPS 2019)
