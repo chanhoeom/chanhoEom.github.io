@@ -14,14 +14,14 @@ I'm Chanho Eom, a student at the School of Electrical & Electronic Engineering, 
 
 # Educations
 _________________
-* (Mar. 2012 ~ Feb. 2017) : **B.S**. at the School of Electrical & Electronic Engineering, Yonsei Univeristy, Seoul, Korea
-* (Mar. 2017 ~ present)   : **Ph.D candidate** at the School of Electrical & Electronic Engineering, Yonsei Univeristy, Seoul, Korea
+* (Mar. 2012 ~ Feb. 2017) : **B.S**. at the School of Electrical & Electronic Engineering, Yonsei Univeristy, Seoul, Korea.
+* (Mar. 2017 ~ present)   : **Ph.D candidate** at the School of Electrical & Electronic Engineering, Yonsei Univeristy, Seoul, Korea.
 
 # Publications
 _________________
 ### Journal
 * **Disentangled Representations for Short-Term and Long-Term Person Re-identification**  
-Chanho Eom, Wonkyung Lee, Geon Lee, and Bumsub Ham  
+Chanho Eom, Wonkyung Lee, Geon Lee, and Bumsub Ham.  
 *IEEE Trans. Pattern Anal. Mach. Intell. ([TPAMI](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=34)) (IF: 17.861)* (accepted)
 
 * **Temporally Consistent Depth Prediction with Flow-Guided Memory Units**.\
@@ -33,13 +33,13 @@ Chanho Eom, Hyunjong Park and Bumsub Ham.\
 
 ### Conference
 * **Video-based Person Re-identification with Spatial and Temporal Memory Networks**  
-Chanho Eom, Geon Lee, Junghyup Lee, and Bumsub Ham  
+Chanho Eom, Geon Lee, Junghyup Lee, and Bumsub Ham.  
 *IEEE Conf. Comput. Vis. ([ICCV](https://iccv2021.thecvf.com/home))*, Oct. 2021.  
 [paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Eom_Video-Based_Person_Re-Identification_With_Spatial_and_Temporal_Memory_Networks_ICCV_2021_paper.pdf) \|
 [project](https://cvlab.yonsei.ac.kr/projects/STMN/)
 
 * **Learning Disentangled Representation for Robust Person Re-identification**  
-Chanho Eom and Bumsub Ham  
+Chanho Eom and Bumsub Ham.  
 *Adv. Neural Inf. Process. Syst. ([NeurIPS](https://nips.cc/Conferences/2019))*, Dec. 2019.  
 [paper](https://papers.nips.cc/paper/2019/file/d3aeec875c479e55d1cdeea161842ec6-Paper.pdf) \|
 [code](https://github.com/cvlab-yonsei/ISGAN) \|
@@ -52,18 +52,18 @@ _________________
  
 # Awards
 _________________
-* Travel Award, *Adv. Neural Inf. Process. Syst. (NeurIPS)* 2019
-* Best Paper Award, *Workshop on Frontiers of Electrical Engineering (FREE) 2019, Yonsei University*
-* Excellence Paper Award, *Workshop on Signal Processing 2021, The Institute of Electronics and Information Engineers (IEIE)*
+* Travel Award, *Adv. Neural Inf. Process. Syst. (NeurIPS)* 2019.
+* Best Paper Award, *Workshop on Frontiers of Electrical Engineering (FREE) 2019, Yonsei University.*
+* Excellence Paper Award, *Workshop on Signal Processing 2021, The Institute of Electronics and Information Engineers (IEIE).*
 
 # Projects
 _________________
-* The Development of Camera-based Human Attribute Recognition Method for Improving Robot Cognitive Ability.  
-*Hyundai Motors, Apr. 2021 ~ Apr. 2024*  
-* FlexNet: Overcoming Limitations of Deep Learning for Flexible Semantic Image Segmentation.  
-*National Research Foundation of Korea (NRF), Sep. 2019 ~ Feb. 2022*  
-* Deep identification and tracking of missing person in heterogeneous CCTV.  
-*National Research Foundation of Korea (NRF), Oct. 2018 ~ Jun. 2023*  
+* The Development of Camera-based Human Attribute Recognition Method for Improving Robot Cognitive Ability,  
+*Hyundai Motors, Apr. 2021 ~ Apr. 2024.*  
+* FlexNet: Overcoming Limitations of Deep Learning for Flexible Semantic Image Segmentation,  
+*National Research Foundation of Korea (NRF), Sep. 2019 ~ Feb. 2022.*  
+* Deep identification and tracking of missing person in heterogeneous CCTV,  
+*National Research Foundation of Korea (NRF), Oct. 2018 ~ Jun. 2023.*  
 
 # Patent
 _________________
@@ -89,7 +89,7 @@ IEEE Trans. Multimedia (TMM)
 
 # Teaching
 _________________
-* Teaching assistant at Yonsei Univ.  
+* Teaching assistant at the School of Electrical & Electronic Engineering, Yonsei Univeristy.  
 2019-1: Signal Processing Lab (EEE4423)  
 2018-2: Aritifial Intelligence (EEE3314)  
 2017-1: Data Structure and Algorithms (EEE2020)
