@@ -19,7 +19,7 @@ _________________
 
 # Publications
 _________________
-**Journal**
+### Journal
 * **Disentangled Representations for Short-Term and Long-Term Person Re-identification**  
 Chanho Eom, Wonkyung Lee, Geon Lee, and Bumsub Ham  
 *IEEE Trans. Pattern Anal. Mach. Intell. (TPAMI)* (accepted)
@@ -47,20 +47,23 @@ Chanho Eom and Bumsub Ham
 
 # Invited Talks
 _________________
-* [KCCV 2020](https://kcvs.kr), oral/poster presentations, Aug. 2020.
+* Korean Conference on Computer Vision (KCCV), oral/poster presentations, Aug. 2020.
 * Naver CLOVA AI Tech Talk ([video](https://www.youtube.com/watch?v=_bQvGy80MS0) \| [slides](https://www.facebook.com/677413542326125/posts/3110595645674557/)), Jan. 2020.
  
 # Awards
 _________________
-* Travel Award, NeurIPS 2019
-* Best Award, Workshop on Frontiers of Electrical Engineering (FREE) 2019, Yonsei University
+* Travel Award, *Adv. Neural Inf. Process. Syst. (NeurIPS)* 2019
+* Best Paper Award, *Workshop on Frontiers of Electrical Engineering (FREE) 2019, Yonsei University*
+* Excellence Paper Award, *Workshop on Signal Processing 2021, The Institute of Electronics and Information Engineers (IEIE)*
 
 # Projects
 _________________
 * The Development of Camera-based Human Attribute Recognition Method for Improving Robot Cognitive Ability.  
 *Hyundai Motors, Apr. 2021 ~ Apr. 2024*  
+* FlexNet: Overcoming Limitations of Deep Learning for Flexible Semantic Image Segmentation.  
+*National Research Foundation of Korea (NRF), Sep. 2019 ~ Feb. 2022*  
 * Deep identification and tracking of missing person in heterogeneous CCTV.  
-*National Research Foundation of Korea (NRF), Oct. 2018 ~ June 2023*  
+*National Research Foundation of Korea (NRF), Oct. 2018 ~ Jun. 2023*  
 
 # Patent
 _________________
