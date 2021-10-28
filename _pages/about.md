@@ -34,13 +34,13 @@ Chanho Eom, Hyunjong Park and Bumsub Ham.\
 ### Conference
 * **Video-based Person Re-identification with Spatial and Temporal Memory Networks**  
 Chanho Eom, Geon Lee, Junghyup Lee, and Bumsub Ham  
-*IEEE Conf. Comput. Vis. (ICCV)*, Oct. 2021.  
+*IEEE Conf. Comput. Vis. ([ICCV](https://iccv2021.thecvf.com/home))*, Oct. 2021.  
 [paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Eom_Video-Based_Person_Re-Identification_With_Spatial_and_Temporal_Memory_Networks_ICCV_2021_paper.pdf) \|
 [project](https://cvlab.yonsei.ac.kr/projects/STMN/)
 
 * **Learning Disentangled Representation for Robust Person Re-identification**  
 Chanho Eom and Bumsub Ham  
-*Adv. Neural Inf. Process. Syst. (NeurIPS)*, Dec. 2019.  
+*Adv. Neural Inf. Process. Syst. ([NeurIPS](https://nips.cc/Conferences/2019))*, Dec. 2019.  
 [paper](https://papers.nips.cc/paper/2019/file/d3aeec875c479e55d1cdeea161842ec6-Paper.pdf) \|
 [code](https://github.com/cvlab-yonsei/ISGAN) \|
 [project](https://cvlab-yonsei.github.io/projects/ISGAN/)
