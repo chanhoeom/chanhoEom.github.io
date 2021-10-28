@@ -57,12 +57,14 @@ _________________
 
 # Projects
 _________________
-* The Development of Camera-based Human Attribute Recognition Method for Improving Robot Cognitive Ability, *Hyundai Motors, Apr. 2021 ~ Apr. 2024*  
-* Deep identification and tracking of missing person in heterogeneous CCTV, *National Research Foundation of Korea (NRF), Oct. 2018 ~ June 2023*  
+* The Development of Camera-based Human Attribute Recognition Method for Improving Robot Cognitive Ability.  
+*Hyundai Motors, Apr. 2021 ~ Apr. 2024*  
+* Deep identification and tracking of missing person in heterogeneous CCTV.  
+*National Research Foundation of Korea (NRF), Oct. 2018 ~ June 2023*  
 
 # Patent
 _________________
-### International
+**International**
 * **Device and Method for Estimating Depth of Monocular Video**  
 *PCT/KR2019/018413, Dec. 2019. (Application)*
 
