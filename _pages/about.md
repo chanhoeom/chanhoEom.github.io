@@ -18,6 +18,7 @@ _________________
 * **Ph.D candidate** at the School of Electrical & Electronic Engineering, Yonsei Univeristy, Seoul, Korea (Mar. 2017 ~ present)
 
 # Publications
+_________________
 ### Journal
 * **Disentangled Representations for Short-Term and Long-Term Person Re-identification**  
 Chanho Eom, Wonkyung Lee, Geon Lee, and Bumsub Ham  
@@ -45,18 +46,22 @@ Chanho Eom and Bumsub Ham
 [project](https://cvlab-yonsei.github.io/projects/ISGAN/)
 
 # Invited Talks
+_________________
 * [KCCV 2020](https://kcvs.kr), oral/poster presentations, Aug. 2020.
 * Naver CLOVA AI Tech Talk ([video](https://www.youtube.com/watch?v=_bQvGy80MS0) \| [slides](https://www.facebook.com/677413542326125/posts/3110595645674557/)), Jan. 2020.
  
 # Awards
+_________________
 * Travel Award, NeurIPS 2019
 * Best Award, Workshop on Frontiers of Electrical Engineering (FREE) 2019, Yonsei University
 
 # Projects
+_________________
 * The Development of Camera-based Human Attribute Recognition Method for Improving Robot Cognitive Ability, *Hyundai Motors, Apr. 2021 ~ Apr. 2024*  
 * Deep identification and tracking of missing person in heterogeneous CCTV, *National Research Foundation of Korea (NRF), Oct. 2018 ~ June 2023*  
 
 # Patent
+_________________
 ### International
 * **Device and Method for Estimating Depth of Monocular Video**  
 *PCT/KR2019/018413, Dec. 2019. (Application)*
@@ -72,17 +77,20 @@ Chanho Eom and Bumsub Ham
 *10-2019-0156863, Jun. 2021. (Registration)*
 
 # Professional Activities
+_________________
 * Reviewers  
 International Journal of Computer Vision (IJCV)  
 IEEE Trans. Multimedia (TMM)  
 
 # Teaching
+_________________
 * Teaching assistant at Yonsei Univ.  
 2019-1: Signal Processing Lab (EEE4423)  
 2018-2: Aritifial Intelligence (EEE3314)  
 2017-1: Data Structure and Algorithms (EEE2020)
 
 # Experience
+_________________
 * **Exchange Student** at the School of Electrical and Computer Engineering, [University of California, Santa Barbara](https://www.ucsb.edu/), United States  
 *Jan. 2015 ~ Jun. 2015*
 * **Software Engineer Intern** at the [SENSORWAY](http://www.sensorway.co.kr/eng/), Seoul, Korea  
@@ -90,6 +98,7 @@ IEEE Trans. Multimedia (TMM)
   - Participated in projects on Perimiter Intrusion Detection System (PIDS) for security solution
   
 # Software Proficiency
+_________________
 Python  
 Pytorch  
 Tensorflow  
