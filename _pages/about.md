@@ -19,7 +19,7 @@ _________________
 
 # Publications
 _________________
-### Journal
+**Journal**
 * **Disentangled Representations for Short-Term and Long-Term Person Re-identification**  
 Chanho Eom, Wonkyung Lee, Geon Lee, and Bumsub Ham  
 *IEEE Trans. Pattern Anal. Mach. Intell. (TPAMI)* (accepted)
