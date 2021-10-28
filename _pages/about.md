@@ -99,7 +99,7 @@ _________________
 
 # Experience
 _________________
-* **Exchange Student** at the School of Electrical and Computer Engineering, [University of California, Santa Barbara](https://www.ucsb.edu/), United States  
+* **Exchange Student** in [University of California, Santa Barbara](https://www.ucsb.edu/), United States  
 *Jan. 2015 ~ Jun. 2015*
 * **Software Engineer Intern** at the [SENSORWAY](http://www.sensorway.co.kr/eng/), Seoul, Korea  
 *Jun. 2015 ~ Feb. 2016*
