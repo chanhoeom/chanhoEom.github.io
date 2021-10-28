@@ -29,7 +29,7 @@ Chanho Eom, Wonkyung Lee, Geon Lee, and Bumsub Ham
 * **Video-based Person Re-identification with Spatial and Temporal Memory Networks**  
 Chanho Eom, Geon Lee, Junghyup Lee, and Bumsub Ham  
 (ICCV 2021)
-[paper](https://arxiv.org/abs/2108.09039) \|
+[paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Eom_Video-Based_Person_Re-Identification_With_Spatial_and_Temporal_Memory_Networks_ICCV_2021_paper.pdf) \|
 [project](https://cvlab.yonsei.ac.kr/projects/STMN/)
 * **Temporally Consistent Depth Prediction with Flow-Guided Memory Units**  
 Chanho Eom, Hyunjong Park, and Bumsub Ham  
