@@ -17,7 +17,7 @@ I'm Chanho Eom, a student at the School of Electrical & Electronic Engineering, 
 * **Ph.D candidate** at the School of Electrical & Electronic Engineering, Yonsei Univeristy, Seoul, Korea (Mar. 2017 ~ present)
 
 ## Publications
-#### International Journal
+### International Journal
 * **Disentangled Representations for Short-Term and Long-Term Person Re-identification**  
 Chanho Eom, Wonkyung Lee, Geon Lee, and Bumsub Ham  
 *IEEE Trans. Pattern Anal. Mach. Intell. (TPAMI)* (accepted)
@@ -29,7 +29,7 @@ Chanho Eom, Hyunjong Park and Bumsub Ham.\
 [code](https://github.com/cvlab-yonsei/FlowGRU) \|
 [project](https://cvlab-yonsei.github.io/projects/FlowGRU/)
 
-#### International Conference
+### International Conference
 * **Video-based Person Re-identification with Spatial and Temporal Memory Networks**  
 Chanho Eom, Geon Lee, Junghyup Lee, and Bumsub Ham  
 *IEEE Conf. Comput. Vis. (ICCV)*, Oct. 2021.  
@@ -44,8 +44,8 @@ Chanho Eom and Bumsub Ham
 [project](https://cvlab-yonsei.github.io/projects/ISGAN/)
 
 ## Invited Talks
-* [KCCV 2020](https://kcvs.kr), oral/poster presentations, Aug. 2020
-* Naver CLOVA AI Tech Talk ([video](https://www.youtube.com/watch?v=_bQvGy80MS0) \| [slides](https://www.facebook.com/677413542326125/posts/3110595645674557/)), Jan. 2020
+* [KCCV 2020](https://kcvs.kr), oral/poster presentations, Aug. 2020.
+* Naver CLOVA AI Tech Talk ([video](https://www.youtube.com/watch?v=_bQvGy80MS0) \| [slides](https://www.facebook.com/677413542326125/posts/3110595645674557/)), Jan. 2020.
  
 ## Awards
 * Travel Award, NeurIPS 2019
@@ -56,14 +56,19 @@ Chanho Eom and Bumsub Ham
 * Deep identification and tracking of missing person in heterogeneous CCTV, *National Research Foundation of Korea (NRF), Oct. 2018 ~ June 2023*  
 
 ## Patent
-* International
-  - 
-  - 
-* Domestic
-  - Person re-identification apparatus and method
-  - d
-Person re-identification apparatus and method, Korea, 10-2019-0104887, Mar. 2021
-* Device and Method for Estimating Depth of Monocular Video, Korea, 10-2019-0156863, Jun. 2021
+### International
+* **Device and Method for Estimating Depth of Monocular Video**  
+*PCT/KR2019/018413, Dec. 2019. (Application)*
+
+* **Person re-identification apparatus and method**  
+*17/003,990, Aug. 2020. (Application)*
+
+### Domestic
+* **Person re-identification apparatus and method**  
+*10-2019-0104887, Mar. 2021. (Registration)*
+
+* **Device and Method for Estimating Depth of Monocular Video**  
+*10-2019-0156863, Jun. 2021. (Registration)*
 
 ## Professional Activities
 * Reviewers  
