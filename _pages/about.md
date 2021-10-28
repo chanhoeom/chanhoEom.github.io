@@ -14,8 +14,8 @@ I'm Chanho Eom, a student at the School of Electrical & Electronic Engineering, 
 
 # Educations
 _________________
-* **B.S**. at the School of Electrical & Electronic Engineering, Yonsei Univeristy, Seoul, Korea (Mar. 2012 ~ Feb. 2017)
-* **Ph.D candidate** at the School of Electrical & Electronic Engineering, Yonsei Univeristy, Seoul, Korea (Mar. 2017 ~ present)
+* (Mar. 2012 ~ Feb. 2017) : **B.S**. at the School of Electrical & Electronic Engineering, Yonsei Univeristy, Seoul, Korea
+* (Mar. 2017 ~ present)   : **Ph.D candidate** at the School of Electrical & Electronic Engineering, Yonsei Univeristy, Seoul, Korea
 
 # Publications
 _________________
