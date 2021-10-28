@@ -12,11 +12,11 @@ redirect_from:
 
 I'm Chanho Eom, a student at the School of Electrical & Electronic Engineering, Yonsei Univeristy, Seoul, Korea, under the supervision of Prof. [Bumsub Ham](https://cvlab.yonsei.ac.kr). My research interests include computer vision and machine/deep learning, particularly image/video retrieval, domain adaptation, and monocular depth estimation.
 
-## Educations
+# Educations
 * **B.S**. at the School of Electrical & Electronic Engineering, Yonsei Univeristy, Seoul, Korea (Mar. 2012 ~ Feb. 2017)
 * **Ph.D candidate** at the School of Electrical & Electronic Engineering, Yonsei Univeristy, Seoul, Korea (Mar. 2017 ~ present)
 
-## Publications
+# Publications
 ### International Journal
 * **Disentangled Representations for Short-Term and Long-Term Person Re-identification**  
 Chanho Eom, Wonkyung Lee, Geon Lee, and Bumsub Ham  
