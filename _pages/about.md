@@ -17,17 +17,10 @@ I'm Chanho Eom, a student at the School of Electrical & Electronic Engineering, 
 * **Ph.D candidate** at the School of Electrical & Electronic Engineering, Yonsei Univeristy, Seoul, Korea (Mar. 2017 ~ present)
 
 ## Publications
-### Journal
-
+#### International Journal
 * **Disentangled Representations for Short-Term and Long-Term Person Re-identification**  
 Chanho Eom, Wonkyung Lee, Geon Lee, and Bumsub Ham  
 *IEEE Trans. Pattern Anal. Mach. Intell. (TPAMI)* (accepted)
-
-* **Video-based Person Re-identification with Spatial and Temporal Memory Networks**  
-Chanho Eom, Geon Lee, Junghyup Lee, and Bumsub Ham  
-*IEEE Conf. Comput. Vis. (ICCV)*, Oct. 2021.  
-[paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Eom_Video-Based_Person_Re-Identification_With_Spatial_and_Temporal_Memory_Networks_ICCV_2021_paper.pdf) \|
-[project](https://cvlab.yonsei.ac.kr/projects/STMN/)
 
 * **Temporally Consistent Depth Prediction with Flow-Guided Memory Units**.\
 Chanho Eom, Hyunjong Park and Bumsub Ham.\
@@ -35,6 +28,13 @@ Chanho Eom, Hyunjong Park and Bumsub Ham.\
 [paper](https://ieeexplore.ieee.org/document/8848860) \|
 [code](https://github.com/cvlab-yonsei/FlowGRU) \|
 [project](https://cvlab-yonsei.github.io/projects/FlowGRU/)
+
+#### International Conference
+* **Video-based Person Re-identification with Spatial and Temporal Memory Networks**  
+Chanho Eom, Geon Lee, Junghyup Lee, and Bumsub Ham  
+*IEEE Conf. Comput. Vis. (ICCV)*, Oct. 2021.  
+[paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Eom_Video-Based_Person_Re-Identification_With_Spatial_and_Temporal_Memory_Networks_ICCV_2021_paper.pdf) \|
+[project](https://cvlab.yonsei.ac.kr/projects/STMN/)
 
 * **Learning Disentangled Representation for Robust Person Re-identification**  
 Chanho Eom and Bumsub Ham  
