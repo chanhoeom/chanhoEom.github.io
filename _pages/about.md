@@ -10,13 +10,15 @@ redirect_from:
 
 <!--![cheom](../images/cheom_zermatt_pointing.jpeg)-->
 
-I'm Chanho Eom, a student at the School of Electrical & Electronic Engineering, Yonsei Univeristy, Seoul, Korea, under the supervision of Prof. [Bumsub Ham](https://cvlab.yonsei.ac.kr). My research interests are computer vision and machine learning, mainly including image/video retrieval, domain adaptation, and monocular depth estimation.
+I'm Chanho Eom, a student at the School of Electrical & Electronic Engineering, Yonsei Univeristy, Seoul, Korea, under the supervision of Prof. [Bumsub Ham](https://cvlab.yonsei.ac.kr). My research interests include computer vision and machine/deep learning, particularly image/video retrieval, domain adaptation, and monocular depth estimation.
 
 ## Educations
 * **B.S**. at the School of Electrical & Electronic Engineering, Yonsei Univeristy, Seoul, Korea (Mar. 2012 ~ Feb. 2017)
 * **Ph.D candidate** at the School of Electrical & Electronic Engineering, Yonsei Univeristy, Seoul, Korea (Mar. 2017 ~ present)
 
 ## Publications
+### Journal
+
 * **Disentangled Representations for Short-Term and Long-Term Person Re-identification**  
 Chanho Eom, Wonkyung Lee, Geon Lee, and Bumsub Ham  
 *IEEE Trans. Pattern Anal. Mach. Intell. (TPAMI)* (accepted)
@@ -54,7 +56,13 @@ Chanho Eom and Bumsub Ham
 * Deep identification and tracking of missing person in heterogeneous CCTV, *National Research Foundation of Korea (NRF), Oct. 2018 ~ June 2023*  
 
 ## Patent
-* Person re-identification apparatus and method, Korea, 10-2019-0104887, Mar. 2021
+* International
+  - 
+  - 
+* Domestic
+  - Person re-identification apparatus and method
+  - d
+Person re-identification apparatus and method, Korea, 10-2019-0104887, Mar. 2021
 * Device and Method for Estimating Depth of Monocular Video, Korea, 10-2019-0156863, Jun. 2021
 
 ## Professional Activities
