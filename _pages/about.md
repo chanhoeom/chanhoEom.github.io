@@ -22,11 +22,11 @@ _________________
 ### Journal
 * **Disentangled Representations for Short-Term and Long-Term Person Re-identification**  
 Chanho Eom, Wonkyung Lee, Geon Lee, and Bumsub Ham  
-*IEEE Trans. Pattern Anal. Mach. Intell. ([TPAMI](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=34) IF: 17.861)* (accepted)
+*IEEE Trans. Pattern Anal. Mach. Intell. ([TPAMI](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=34)) (IF: 17.861)* (accepted)
 
 * **Temporally Consistent Depth Prediction with Flow-Guided Memory Units**.\
 Chanho Eom, Hyunjong Park and Bumsub Ham.\
-*IEEE Trans. Intell. Transp. Syst. ([TITS](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6979) IF: 6.319)*, vol. 21, no. 11, pp. 4626-4636, Nov. 2020.  
+*IEEE Trans. Intell. Transp. Syst. ([TITS](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6979)) (IF: 6.319)*, vol. 21, no. 11, pp. 4626-4636, Nov. 2020.  
 [paper](https://ieeexplore.ieee.org/document/8848860) \|
 [code](https://github.com/cvlab-yonsei/FlowGRU) \|
 [project](https://cvlab-yonsei.github.io/projects/FlowGRU/)
