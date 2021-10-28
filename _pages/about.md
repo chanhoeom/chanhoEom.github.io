@@ -50,7 +50,7 @@ Chanho Eom and Bumsub Ham.
 # Invited Talks
 _________________
 * Korean Conference on Computer Vision (KCCV), oral/poster presentations, Aug. 2020.
-* Naver CLOVA AI Tech Talk ([video](https://www.youtube.com/watch?v=_bQvGy80MS0) \| [slides](https://www.facebook.com/677413542326125/posts/3110595645674557/)), Jan. 2020.
+* Naver CLOVA AI Tech Talk, Jan. 2020. ([video](https://www.youtube.com/watch?v=_bQvGy80MS0) \| [slides](https://www.facebook.com/677413542326125/posts/3110595645674557/))
  
 # Awards
 _________________
