@@ -23,34 +23,34 @@ _________________
 _________________
 ### Journal
 * **Disentangled Representations for Short-Term and Long-Term Person Re-identification**  
-Chanho Eom, Wonkyung Lee, Geon Lee, and Bumsub Ham.  
-*IEEE Trans. Pattern Anal. Mach. Intell. ([TPAMI](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=34)) (IF: 17.861)* (accepted)  
 \| [project](https://cvlab-yonsei.github.io/projects/ISGAN/)
 \|
+**Chanho Eom**, Wonkyung Lee, Geon Lee, and Bumsub Ham.  
+*IEEE Trans. Pattern Anal. Mach. Intell. ([TPAMI](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=34)) (IF: 17.861)* (accepted)  
 
 * **Temporally Consistent Depth Prediction with Flow-Guided Memory Units**.\
-Chanho Eom, Hyunjong Park and Bumsub Ham.\
-*IEEE Trans. Intell. Transp. Syst. ([TITS](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6979)) (IF: 6.319)*, vol. 21, no. 11, pp. 4626-4636, Nov. 2020.  
 \| [paper](https://ieeexplore.ieee.org/document/8848860)
 \| [code](https://github.com/cvlab-yonsei/FlowGRU)
 \| [project](https://cvlab-yonsei.github.io/projects/FlowGRU/)
 \|
+**Chanho Eom**, Hyunjong Park and Bumsub Ham.\
+*IEEE Trans. Intell. Transp. Syst. ([TITS](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6979)) (IF: 6.319)*, vol. 21, no. 11, pp. 4626-4636, Nov. 2020.  
 
 ### Conference
 * **Video-based Person Re-identification with Spatial and Temporal Memory Networks**  
-Chanho Eom, Geon Lee, Junghyup Lee, and Bumsub Ham.  
-*IEEE Conf. Comput. Vis. ([ICCV](https://iccv2021.thecvf.com/home))*, Oct. 2021.  
 \| [paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Eom_Video-Based_Person_Re-Identification_With_Spatial_and_Temporal_Memory_Networks_ICCV_2021_paper.pdf)
 \| [project](https://cvlab.yonsei.ac.kr/projects/STMN/)
 \|
+**Chanho Eom**, Geon Lee, Junghyup Lee, and Bumsub Ham.  
+*IEEE Conf. Comput. Vis. ([ICCV](https://iccv2021.thecvf.com/home))*, Oct. 2021.  
 
 * **Learning Disentangled Representation for Robust Person Re-identification**  
-Chanho Eom and Bumsub Ham.  
-*Adv. Neural Inf. Process. Syst. ([NeurIPS](https://nips.cc/Conferences/2019))*, Dec. 2019.  
 \| [paper](https://papers.nips.cc/paper/2019/file/d3aeec875c479e55d1cdeea161842ec6-Paper.pdf)
 \| [code](https://github.com/cvlab-yonsei/ISGAN)
 \| [project](https://cvlab-yonsei.github.io/projects/ISGAN/)
 \|
+**Chanho Eom** and Bumsub Ham.  
+*Adv. Neural Inf. Process. Syst. ([NeurIPS](https://nips.cc/Conferences/2019))*, Dec. 2019.  
 
 # Invited Talks
 _________________
