@@ -55,9 +55,9 @@ _________________
  
 # Awards
 _________________
+* Excellence Paper Award, *Workshop on Signal Processing 2021, The Institute of Electronics and Information Engineers (IEIE).*
 * Travel Award, *Adv. Neural Inf. Process. Syst. (NeurIPS)* 2019.
 * Best Paper Award, *Workshop on Frontiers of Electrical Engineering (FREE) 2019, Yonsei University.*
-* Excellence Paper Award, *Workshop on Signal Processing 2021, The Institute of Electronics and Information Engineers (IEIE).*
 
 # Projects
 _________________
@@ -71,18 +71,18 @@ _________________
 # Patent
 _________________
 ### International
-* **Device and Method for Estimating Depth of Monocular Video**  
-*PCT/KR2019/018413, Dec. 2019. (Application)*
-
 * **Person re-identification apparatus and method**  
 *17/003,990, Aug. 2020. (Application)*
 
-### Domestic
-* **Person re-identification apparatus and method**  
-*10-2019-0104887, Mar. 2021. (Registration)*
+* **Device and Method for Estimating Depth of Monocular Video**  
+*PCT/KR2019/018413, Dec. 2019. (Application)*
 
+### Domestic
 * **Device and Method for Estimating Depth of Monocular Video**  
 *10-2019-0156863, Jun. 2021. (Registration)*
+
+* **Person re-identification apparatus and method**  
+*10-2019-0104887, Mar. 2021. (Registration)*
 
 # Professional Activities
 _________________
