@@ -88,6 +88,14 @@ _________________
 * Person re-identification apparatus and method  
 *10-2019-0104887, Mar. 2021. (Registration)*
 
+# Experience
+_________________
+* **Exchange Student** in [University of California, Santa Barbara](https://www.ucsb.edu/), United States  
+*Jan. 2015 ~ Jun. 2015*
+* **Software Engineer** at [SENSORWAY](http://www.sensorway.co.kr/eng/), Seoul, Korea  
+*Jun. 2015 ~ Feb. 2016*
+  - Participated in projects on Perimiter Intrusion Detection System (PIDS) for security solution
+
 # Professional Activities
 _________________
 * Reviewers  
@@ -100,21 +108,5 @@ _________________
 2019-1: Signal Processing Lab (EEE4423)  
 2018-2: Aritifial Intelligence (EEE3314)  
 2017-1: Data Structure and Algorithms (EEE2020)
-
-# Experience
-_________________
-* **Exchange Student** in [University of California, Santa Barbara](https://www.ucsb.edu/), United States  
-*Jan. 2015 ~ Jun. 2015*
-* **Software Engineer** at [SENSORWAY](http://www.sensorway.co.kr/eng/), Seoul, Korea  
-*Jun. 2015 ~ Feb. 2016*
-  - Participated in projects on Perimiter Intrusion Detection System (PIDS) for security solution
-  
-# Software Proficiency
-_________________
-Python  
-Pytorch  
-Tensorflow  
-C/C++  
-MATLAB
 
 ![cvlab_logo](../images/cvlab_logo.png)
