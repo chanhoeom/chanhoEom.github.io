@@ -59,9 +59,9 @@ _________________
  
 # Awards
 _________________
-* Excellence Paper Award, *Workshop on Signal Processing 2021, The Institute of Electronics and Information Engineers (IEIE).*
-* Travel Award, *Adv. Neural Inf. Process. Syst. (NeurIPS)* 2019.
-* Best Paper Award, *Workshop on Frontiers of Electrical Engineering (FREE) 2019, Yonsei University.*
+* **Excellence Paper Award**, *Workshop on Signal Processing 2021, The Institute of Electronics and Information Engineers (IEIE).*
+* **Travel Award**, *Adv. Neural Inf. Process. Syst. (NeurIPS)* 2019.
+* **Best Paper Award**, *Workshop on Frontiers of Electrical Engineering (FREE) 2019, Yonsei University.*
 
 # Projects
 _________________
