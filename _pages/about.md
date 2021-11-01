@@ -42,6 +42,7 @@ _________________
 *IEEE Conf. Comput. Vis. ([ICCV](https://iccv2021.thecvf.com/home))*, Oct. 2021.  
 \| [project](https://cvlab.yonsei.ac.kr/projects/STMN/)
 \| [paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Eom_Video-Based_Person_Re-Identification_With_Spatial_and_Temporal_Memory_Networks_ICCV_2021_paper.pdf)
+\| [code](https://github.com/cvlab-yonsei/STMN)
 \|
 
 * **Learning Disentangled Representation for Robust Person Re-identification**  
