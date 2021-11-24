@@ -101,7 +101,7 @@ _________________
 _________________
 * Reviewers  
 International Journal of Computer Vision (IJCV)  
-IEEE Trans. Image Process. (TIP)
+IEEE Trans. Image Process. (TIP)  
 IEEE Trans. Multimedia (TMM)  
 
 # Teaching
