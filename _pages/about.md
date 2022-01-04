@@ -100,7 +100,7 @@ _________________
 # Professional Activities
 _________________
 * Reviewers  
-International Journal of Computer Vision (IJCV)  
+Int. Jour. Comput. Vis. (IJCV)  
 IEEE Trans. Image Process. (TIP)  
 IEEE Trans. Multimedia (TMM)  
 CVPR 2022  
