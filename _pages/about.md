@@ -39,7 +39,7 @@ _________________
 ### Conference
 * **Video-based Person Re-identification with Spatial and Temporal Memory Networks**  
 **Chanho Eom**, Geon Lee, Junghyup Lee, and Bumsub Ham.  
-*IEEE Conf. Comput. Vis. ([ICCV](https://iccv2021.thecvf.com/home))*, Oct. 2021.  
+*IEEE Int. Conf. Comput. Vis. ([ICCV](https://iccv2021.thecvf.com/home))*, Oct. 2021.  
 \| [project](https://cvlab.yonsei.ac.kr/projects/STMN/)
 \| [paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Eom_Video-Based_Person_Re-Identification_With_Spatial_and_Temporal_Memory_Networks_ICCV_2021_paper.pdf)
 \| [code](https://github.com/cvlab-yonsei/STMN)
@@ -91,11 +91,11 @@ _________________
 
 # Experience
 _________________
-* **Exchange Student** in [University of California, Santa Barbara](https://www.ucsb.edu/), United States  
-*Jan. 2015 ~ Jun. 2015*
 * **Software Engineer** at [SENSORWAY](http://www.sensorway.co.kr/eng/), Seoul, Korea  
 *Jun. 2015 ~ Feb. 2016*
-  - Participated in projects on Perimiter Intrusion Detection System (PIDS) for security solution
+  - Participated in projects on Perimeter Intrusion Detection System (PIDS) for security solution
+* **Exchange Student** in [University of California, Santa Barbara](https://www.ucsb.edu/), United States  
+*Jan. 2015 ~ Jun. 2015*
 
 # Professional Activities
 _________________
@@ -103,7 +103,7 @@ _________________
 Int. Jour. Comput. Vis. (IJCV)  
 IEEE Trans. Image Process. (TIP)  
 IEEE Trans. Multimedia (TMM)  
-CVPR 2022  
+IEEE Conf. Comput. Vis. Pattern Recognit. (CVPR) 2022    
 
 # Teaching
 _________________
