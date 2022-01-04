@@ -76,8 +76,8 @@ _________________
 # Patents
 _________________
 ### International
-* Person re-identification apparatus and method  
-*17/003,990, Aug. 2020. (Application)*
+* Person Re-identification Apparatus and Method  
+*17/003, 990, Aug. 2020. (Application)*
 
 * Device and Method for Estimating Depth of Monocular Video  
 *PCT/KR2019/018413, Dec. 2019. (Application)*
@@ -86,7 +86,7 @@ _________________
 * Device and Method for Estimating Depth of Monocular Video  
 *10-2019-0156863, Jun. 2021. (Registration)*
 
-* Person re-identification apparatus and method  
+* Person Re-identification Apparatus and Method  
 *10-2019-0104887, Mar. 2021. (Registration)*
 
 # Experience
