@@ -70,7 +70,7 @@ _________________
 *Hyundai Motors, Apr. 2021 ~ Apr. 2022.*  
 * FlexNet: Overcoming Limitations of Deep Learning for Flexible Semantic Image Segmentation,  
 *National Research Foundation of Korea (NRF), Sep. 2019 ~ Feb. 2022.*  
-* Deep identification and tracking of missing person in heterogeneous CCTV,  
+* Deep Identification and Tracking of Missing Person in Heterogeneous CCTV,  
 *National Research Foundation of Korea (NRF), Oct. 2018 ~ Jun. 2023.*  
 
 # Patent
