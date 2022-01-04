@@ -73,7 +73,7 @@ _________________
 * Deep Identification and Tracking of Missing Person in Heterogeneous CCTV,  
 *National Research Foundation of Korea (NRF), Oct. 2018 ~ Jun. 2023.*  
 
-# Patent
+# Patents
 _________________
 ### International
 * Person re-identification apparatus and method  
