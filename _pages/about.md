@@ -67,7 +67,7 @@ _________________
 # Projects
 _________________
 * The Development of Camera-based Human Attribute Recognition Method for Improving Robot Cognitive Ability,  
-*Hyundai Motors, Apr. 2021 ~ Apr. 2024.*  
+*Hyundai Motors, Apr. 2021 ~ Apr. 2022.*  
 * FlexNet: Overcoming Limitations of Deep Learning for Flexible Semantic Image Segmentation,  
 *National Research Foundation of Korea (NRF), Sep. 2019 ~ Feb. 2022.*  
 * Deep identification and tracking of missing person in heterogeneous CCTV,  
