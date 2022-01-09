@@ -69,7 +69,7 @@ _________________
 * The Development of Camera-based Human Attribute Recognition Method for Improving Robot Cognitive Ability,  
 *Hyundai Motors, Apr. 2021 ~ Apr. 2022.*  
 * FlexNet: Overcoming Limitations of Deep Learning for Flexible Semantic Image Segmentation,  
-*National Research Foundation of Korea (NRF), Sep. 2019 ~ Feb. 2022.*  
+*National Research Foundation of Korea (NRF), Mar. 2021 ~ Feb. 2022.*  
 * Deep Identification and Tracking of Missing Person in Heterogeneous CCTV,  
 *National Research Foundation of Korea (NRF), Oct. 2018 ~ Jun. 2023.*  
 
@@ -100,10 +100,15 @@ _________________
 # Professional Activities
 _________________
 * Reviewers  
-Int. Jour. Comput. Vis. (IJCV)  
+IEEE Trans. Patter Anal. Mach. Intell. (TPAMI)  
 IEEE Trans. Image Process. (TIP)  
 IEEE Trans. Multimedia (TMM)  
-IEEE Conf. Comput. Vis. Pattern Recognit. (CVPR) 2022    
+Int. Jour. Comput. Vis. (IJCV)  
+In Proc. IEEE Conf. Comput. Vis. Pattern Recognit. (CVPR) 2020/2021/2022  
+In Proc. IEEE Int. Conf. Comput. Vis. (ICCV) 2019/2021  
+In Eur. Conf. Comput. Vis. (ECCV) 2020  
+In AAAI Conf. Artificial Intelligence (AAAI) 2020  
+
 
 # Teaching
 _________________
