@@ -100,10 +100,11 @@ _________________
 # Professional Activities
 _________________
 * Reviewers  
+Int. Jour. Comput. Vis. (IJCV)  
 IEEE Trans. Patter Anal. Mach. Intell. (TPAMI)  
 IEEE Trans. Image Process. (TIP)  
 IEEE Trans. Multimedia (TMM)  
-Int. Jour. Comput. Vis. (IJCV)  
+In Adv. Neural Inf. Process. Syst. (NeurIPS) 2020  
 In Proc. IEEE Conf. Comput. Vis. Pattern Recognit. (CVPR) 2020/2021/2022  
 In Proc. IEEE Int. Conf. Comput. Vis. (ICCV) 2019/2021  
 In Eur. Conf. Comput. Vis. (ECCV) 2020  
