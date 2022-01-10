@@ -116,6 +116,7 @@ _________________
 * Teaching assistant at the School of Electrical & Electronic Engineering, Yonsei Univeristy.  
 2019-1: Signal Processing Lab (EEE4423)  
 2018-2: Aritifial Intelligence (EEE3314)  
+2018-1: Introduction to Engineering (ENG1107)
 2017-1: Data Structure and Algorithms (EEE2020)
 
 ![cvlab_logo](../images/cvlab_logo.png)
