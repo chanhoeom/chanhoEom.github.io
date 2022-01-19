@@ -83,7 +83,7 @@ author:
   name             : "Chanho Eom"
   avatar           : "profile.jpeg"
   bio              : "Ph.D. Student at Yonsei Univ."
-  location         : "Yonsei University, Seoul"
+  location         : # "Yonsei University, Seoul"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=3feNfdUAAAAJ&hl=ko"
