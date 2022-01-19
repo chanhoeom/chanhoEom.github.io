@@ -83,10 +83,10 @@ author:
   name             : "Chanho Eom"
   avatar           : "profile.jpeg"
   bio              : "Ph.D. Student at Yonsei Univ."
-  location         : 
+  location         : "Yonsei University, Seoul"
   employer         :
   pubmed           : 
-  googlescholar    :
+  googlescholar    : "https://scholar.google.com/citations?user=3feNfdUAAAAJ&hl=ko"
   email            : "cheom@yonsei.ac.kr"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
