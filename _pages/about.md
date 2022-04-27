@@ -28,7 +28,7 @@ _________________
 \| [project](https://cvlab-yonsei.github.io/projects/ISGAN/)
 \|
 
-* **Temporally Consistent Depth Prediction with Flow-Guided Memory Units**.\
+* **Temporally Consistent Depth Prediction with Flow-Guided Memory Units**  
 **Chanho Eom**, Hyunjong Park and Bumsub Ham.\
 *IEEE Trans. Intell. Transp. Syst. ([TITS](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6979)) (IF: 6.319)*, vol. 21, no. 11, pp. 4626-4636, Nov. 2020.  
 \| [project](https://cvlab-yonsei.github.io/projects/FlowGRU/)
