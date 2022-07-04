@@ -19,6 +19,16 @@ _________________
 * (Mar. 2017 ~ present)   : **Ph.D candidate** at the School of Electrical & Electronic Engineering, Yonsei Univeristy, Seoul, Korea.
 * (Mar. 2012 ~ Feb. 2017) : **B.S**. at the School of Electrical & Electronic Engineering, Yonsei Univeristy, Seoul, Korea.
 
+# Experience
+_________________
+* **Research Intern** at [Naver CLOVA](https://naver-career.gitbook.io/en/), Jeongja, Korea  
+*Jun. 2022 ~ Aug. 2022*
+* **Research Engineer** at [SENSORWAY](http://www.sensorway.co.kr/eng/), Seoul, Korea  
+*Jun. 2015 ~ Feb. 2016*
+  - Participated in projects on Perimeter Intrusion Detection System (PIDS)
+* **Exchange Student** in [University of California, Santa Barbara](https://www.ucsb.edu/), United States  
+*Jan. 2015 ~ Jun. 2015*
+
 # Publications
 _________________
 ### Journal
@@ -92,16 +102,6 @@ _________________
 
 * Person Re-identification Apparatus and Method  
 *10-2019-0104887, Mar. 2021. (Registration)*
-
-# Experience
-_________________
-* **Research Intern** at [Naver CLOVA](https://naver-career.gitbook.io/en/), Jeongja, Korea  
-*Jun. 2022 ~ Aug. 2022*
-* **Research Engineer** at [SENSORWAY](http://www.sensorway.co.kr/eng/), Seoul, Korea  
-*Jun. 2015 ~ Feb. 2016*
-  - Participated in projects on Perimeter Intrusion Detection System (PIDS)
-* **Exchange Student** in [University of California, Santa Barbara](https://www.ucsb.edu/), United States  
-*Jan. 2015 ~ Jun. 2015*
 
 # Professional Activities
 _________________
