@@ -37,6 +37,10 @@ _________________
 \|
 
 ### Conference
+* **Bi-directional Contrastive Learning for Domain Adaptive Semantic Segmentation**  
+Geon Lee, **Chanho Eom**, Wonkyung Lee, Hyekang Park, and Bumsub Ham.  
+*Eur. Conf. Comput. Vis. ([ECCV](https://eccv2022.ecva.net))*, Oct. 2022.  
+
 * **Video-based Person Re-identification with Spatial and Temporal Memory Networks**  
 **Chanho Eom**, Geon Lee, Junghyup Lee, and Bumsub Ham.  
 *IEEE Int. Conf. Comput. Vis. ([ICCV](https://iccv2021.thecvf.com/home))*, Oct. 2021.  
@@ -91,6 +95,8 @@ _________________
 
 # Experience
 _________________
+* **Research Intern** at [Naver CLOVA](https://naver-career.gitbook.io/en/), Jeongja, Korea  
+*Jun. 2022 ~ Aug. 2022*
 * **Research Engineer** at [SENSORWAY](http://www.sensorway.co.kr/eng/), Seoul, Korea  
 *Jun. 2015 ~ Feb. 2016*
   - Participated in projects on Perimeter Intrusion Detection System (PIDS)
