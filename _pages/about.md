@@ -12,7 +12,7 @@ redirect_from:
 
 I am pursuing a Ph.D degree in School of Electrical and Electronic Engineering at Yonsei University, Seoul, Korea, under the supervision of Prof. [Bumsub Ham](https://cvlab.yonsei.ac.kr). 
 
-My research interests include computer vision and machine/deep learning, particularly image/video retrieval, domain adaptation, and monocular depth estimation.
+My research interests include computer vision and machine/deep learning, particularly image/video retrieval, domain adaptation, and monocular depth estimation, but not limited to.
 
 # Educations
 _________________
