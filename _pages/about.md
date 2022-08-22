@@ -25,9 +25,9 @@ _________________
 *Jun. 2022 ~ Aug. 2022*
 * **Research Engineer** at [SENSORWAY](http://www.sensorway.co.kr/eng/), Seoul, Korea  
 *Jun. 2015 ~ Feb. 2016*
-  - Participated in projects on Perimeter Intrusion Detection System (PIDS)
 * **Exchange Student** in [University of California, Santa Barbara](https://www.ucsb.edu/), United States  
 *Jan. 2015 ~ Jun. 2015*
+<!-- - Participated in projects on Perimeter Intrusion Detection System (PIDS) -->
 
 # Publications
 _________________
