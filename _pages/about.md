@@ -113,7 +113,7 @@ IEEE Trans. Multimedia (TMM)
 In Adv. Neural Inf. Process. Syst. (NeurIPS) 2020  
 In Proc. IEEE Conf. Comput. Vis. Pattern Recognit. (CVPR) 2020/2021/2022  
 In Proc. IEEE Int. Conf. Comput. Vis. (ICCV) 2019/2021  
-In Eur. Conf. Comput. Vis. (ECCV) 2020  
+In Eur. Conf. Comput. Vis. (ECCV) 2020/2022  
 In AAAI Conf. Artificial Intelligence (AAAI) 2020  
 
 
