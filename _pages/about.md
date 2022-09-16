@@ -102,7 +102,10 @@ _________________
 
 ### Domestic
 * Apparatus and Method for Re-identifying Object  
-*10-2019-0156863, May. 2022. (Application)*
+*10-2022-0064204, May. 2022. (Application)*
+
+* Apparatus and Method for Person Re-identification based on Video with Spatial and Temporal Memory Networks  
+*10-2021-0179580, Dec. 2021. (Application)*
 
 * Device and Method for Estimating Depth of Monocular Video  
 *10-2019-0156863, Jun. 2021. (Registration)*
