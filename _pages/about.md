@@ -22,7 +22,7 @@ _________________
 # Experience
 _________________
 * **Research Intern** at [Naver CLOVA](https://naver-career.gitbook.io/en/), Jeongja, Korea  
-*Jun. 2022 ~ Aug. 2022*
+*Jun. 2022 ~ Sep. 2022*
 * **Research Engineer** at [SENSORWAY](http://www.sensorway.co.kr/eng/), Seoul, Korea  
 *Jun. 2015 ~ Feb. 2016*
 * **Exchange Student** in [University of California, Santa Barbara](https://www.ucsb.edu/), United States  
@@ -50,6 +50,10 @@ _________________
 * **Bi-directional Contrastive Learning for Domain Adaptive Semantic Segmentation**  
 Geon Lee, **Chanho Eom**, Wonkyung Lee, Hyekang Park, and Bumsub Ham.  
 *Eur. Conf. Comput. Vis. ([ECCV](https://eccv2022.ecva.net))*, Oct. 2022.  
+\| [project](https://cvlab.yonsei.ac.kr/projects/DASS/)
+\| [paper](https://arxiv.org/pdf/2207.10892.pdf)
+\| [code](https://github.com/cvlab-yonsei/DASS)
+\|
 
 * **Video-based Person Re-identification with Spatial and Temporal Memory Networks**  
 **Chanho Eom**, Geon Lee, Junghyup Lee, and Bumsub Ham.  
@@ -97,6 +101,9 @@ _________________
 *PCT/KR2019/018413, Dec. 2019. (Application)*
 
 ### Domestic
+* Apparatus and Method for Re-identifying Object  
+*10-2019-0156863, May. 2022. (Application)*
+
 * Device and Method for Estimating Depth of Monocular Video  
 *10-2019-0156863, Jun. 2021. (Registration)*
 
@@ -109,6 +116,7 @@ _________________
 Int. Jour. Comput. Vis. (IJCV)  
 IEEE Trans. Patter Anal. Mach. Intell. (TPAMI)  
 IEEE Trans. Image Process. (TIP)  
+IEEE Trans. Circuits Syst. Video Technol. (TCSVT)  
 IEEE Trans. Multimedia (TMM)  
 In Adv. Neural Inf. Process. Syst. (NeurIPS) 2020  
 In Proc. IEEE Conf. Comput. Vis. Pattern Recognit. (CVPR) 2020/2021/2022  
