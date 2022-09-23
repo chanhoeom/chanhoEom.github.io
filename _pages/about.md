@@ -101,6 +101,9 @@ _________________
 *PCT/KR2019/018413, Dec. 2019. (Application)*
 
 ### Domestic
+* Object Re-identification Apparatus and Method  
+*10-2022-0107755, Aug. 2022. (Application)*
+
 * Apparatus and Method for Re-identifying Object  
 *10-2022-0064204, May. 2022. (Application)*
 
