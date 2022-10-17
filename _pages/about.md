@@ -95,7 +95,7 @@ _________________
 _________________
 ### International
 * Person Re-identification Apparatus and Method  
-*17/003, 990, Aug. 2020. (Application)*
+*US011321556B2, May. 2022. (Registration)*
 
 * Device and Method for Estimating Depth of Monocular Video  
 *PCT/KR2019/018413, Dec. 2019. (Application)*
