@@ -34,8 +34,9 @@ _________________
 ### Journal
 * **Disentangled Representations for Short-Term and Long-Term Person Re-identification**  
 **Chanho Eom**, Wonkyung Lee, Geon Lee, and Bumsub Ham.  
-*IEEE Trans. Pattern Anal. Mach. Intell. ([TPAMI](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=34)) (IF: 24.314)* (accepted)  
+*IEEE Trans. Pattern Anal. Mach. Intell. ([TPAMI](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=34)) (IF: 24.314)*, vol. 44, no. 12, pp. 8975-8991, Dec. 2022.    
 \| [project](https://cvlab-yonsei.github.io/projects/ISGAN/)
+\| [paper](https://ieeexplore.ieee.org/document/9585547)
 \|
 
 * **Temporally Consistent Depth Prediction with Flow-Guided Memory Units**  
