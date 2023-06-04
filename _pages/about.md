@@ -52,7 +52,7 @@ _________________
 Geon Lee, **Chanho Eom**, Wonkyung Lee, Hyekang Park, and Bumsub Ham.  
 *Eur. Conf. Comput. Vis. ([ECCV](https://eccv2022.ecva.net))*, Oct. 2022.  
 \| [project](https://cvlab.yonsei.ac.kr/projects/DASS/)
-\| [paper](https://arxiv.org/pdf/2207.10892.pdf)
+\| [paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136900038.pdf)
 \| [code](https://github.com/cvlab-yonsei/DASS)
 \|
 
