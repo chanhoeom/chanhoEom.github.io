@@ -143,4 +143,6 @@ _________________
 2018-1: Introduction to Engineering (ENG1107)  
 2017-1: Data Structure and Algorithms (EEE2020)
 
+<!-- 
 ![cvlab_logo](../images/cvlab_logo.png)
+ -->
