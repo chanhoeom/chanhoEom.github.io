@@ -10,13 +10,16 @@ redirect_from:
 
 <!--![cheom](../images/cheom_zermatt_pointing.jpeg)-->
 
-I am pursuing a Ph.D degree in School of Electrical and Electronic Engineering at Yonsei University, Seoul, Korea, under the supervision of Prof. [Bumsub Ham](https://cvlab.yonsei.ac.kr). 
+I am an AI Researcher at [Samsung Advanced Institute of Technology (SAIT)](https://www.sait.samsung.co.kr).
 
-My research interests include computer vision and machine/deep learning, particularly image/video retrieval, domain adaptation, and monocular depth estimation, but not limited to.
+I received joint M.S. and Ph.D. degree at the School of [Electrical and Electronic Engineering, Yonsei University](https://ee.yonsei.ac.kr/ee_en/index.do), under the supervision of [Prof. Bumsub Ham](https://cvlab.yonsei.ac.kr). I worked as a research intern at [Naver CLOVA](https://naver-career.gitbook.io/en/) (Leader: [YoungJoon Yoo](https://sites.google.com/view/yjyoo3312)). I also worked as a research engineer at [SENSORWAY](http://www.sensorway.co.kr/eng/), participating in Perimeter Intrusion Detection System (PIDS) project.
 
+My research interests include computer vision and machine/deep learning, particularly autonomous driving, image/video retrieval, and domain adaptation, but not limited to.
+
+<!-- 
 # Educations
 _________________
-* (Mar. 2017 ~ present)   : **Ph.D candidate** at the School of Electrical & Electronic Engineering, Yonsei Univeristy, Seoul, Korea.
+* (Mar. 2017 ~ Feb. 2023) : **Ph.D** at the School of Electrical & Electronic Engineering, Yonsei Univeristy, Seoul, Korea.
 * (Mar. 2012 ~ Feb. 2017) : **B.S**. at the School of Electrical & Electronic Engineering, Yonsei Univeristy, Seoul, Korea.
 
 # Experience
@@ -27,7 +30,7 @@ _________________
 *Jun. 2015 ~ Feb. 2016*
 * **Exchange Student** in [University of California, Santa Barbara](https://www.ucsb.edu/), United States  
 *Jan. 2015 ~ Jun. 2015*
-<!-- - Participated in projects on Perimeter Intrusion Detection System (PIDS) -->
+- Participated in projects on Perimeter Intrusion Detection System (PIDS) -->
 
 # Publications
 _________________
