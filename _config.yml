@@ -78,16 +78,17 @@ analytics:
     tracking_id          :
 
 
+
 # Site Author
 author:
   name             : "Chanho Eom (엄찬호)"
   avatar           : "profile.jpeg"
-  bio              : "Ph.D. Student at Yonsei Univ."
+  bio              : "Assistant Professor at Chung-Ang Univ."
   location         : # "Yonsei University, Seoul"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=3feNfdUAAAAJ&hl=ko"
-  email            : "cheom@yonsei.ac.kr"
+  email            : "cheom@cau.ac.kr"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
