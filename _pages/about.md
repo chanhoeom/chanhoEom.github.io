@@ -10,11 +10,11 @@ redirect_from:
 
 <!--![cheom](../images/cheom_zermatt_pointing.jpeg)-->
 
-I am an AI Researcher at [Samsung Advanced Institute of Technology (SAIT)](https://www.sait.samsung.co.kr).
+I have recently taken on the role of Assistant Professor at [Graduate School of Advanced Imaging Science, Multimedia, and Film (GSAIM), Chung-Ang University](https://gsaim.cau.ac.kr), Seoul, Korea.
 
-I received joint M.S. and Ph.D. degree at the School of [Electrical and Electronic Engineering, Yonsei University](https://ee.yonsei.ac.kr/ee_en/index.do), under the supervision of [Prof. Bumsub Ham](https://cvlab.yonsei.ac.kr). I worked as a research intern at [Naver CLOVA](https://naver-career.gitbook.io/en/) (Leader: [YoungJoon Yoo](https://sites.google.com/view/yjyoo3312)). I also worked as a research engineer at [SENSORWAY](http://www.sensorway.co.kr/eng/), participating in Perimeter Intrusion Detection System (PIDS) project.
+I received joint M.S. and Ph.D. degree at the School of [Electrical and Electronic Engineering, Yonsei University](https://ee.yonsei.ac.kr/ee_en/index.do), under the supervision of [Prof. Bumsub Ham](https://cvlab.yonsei.ac.kr). I worked as a research intern at [Naver CLOVA](https://naver-career.gitbook.io/en/) (Leader: [YoungJoon Yoo](https://sites.google.com/view/yjyoo3312)). I also have experience as an AI Researcher at [Samsung Advanced Institute of Technology (SAIT)](https://www.sait.samsung.co.kr), where I contributed to the Autonomous Machine Perception (AMP) project, working under the guidance of [ByungIn Yoo](https://scholar.google.co.kr/citations?user=JNgRAf8AAAAJ&hl=en).
 
-My research interests include computer vision and machine/deep learning, particularly autonomous driving, image/video retrieval, and domain adaptation, but not limited to.
+My research interests include computer vision and machine/deep learning, particularly image/video retrieval, domain adaptation, and autonomous driving, but not limited to.
 
 <!-- 
 # Educations
@@ -77,13 +77,14 @@ Geon Lee, **Chanho Eom**, Wonkyung Lee, Hyekang Park, and Bumsub Ham.
 
 # Invited Talks
 _________________
+* AI Technology Seminar, SIC-X LAB, in the Department of Electrical Engineering, KAIST, Aug. 2023.
 * Korean Conference on Computer Vision (KCCV), oral/poster presentations, Aug. 2020.
 * Naver CLOVA AI Tech Talk, Jan. 2020. ([video](https://www.youtube.com/watch?v=_bQvGy80MS0) \| [slides](https://www.facebook.com/677413542326125/posts/3110595645674557/))
  
 # Awards
 _________________
 * **Excellence Paper Award**, *Workshop on Signal Processing 2021, The Institute of Electronics and Information Engineers (IEIE).*
-* **Travel Award**, *Adv. Neural Inf. Process. Syst. (NeurIPS)* 2019.
+* **NeurIPS Travel Award**, *Adv. Neural Inf. Process. Syst. (NeurIPS)* 2019.
 * **Best Paper Award**, *Workshop on Frontiers of Electrical Engineering (FREE) 2019, Yonsei University.*
 
 # Projects
@@ -94,10 +95,18 @@ _________________
 *National Research Foundation of Korea (NRF), Mar. 2021 ~ Feb. 2022.*  
 * Deep Identification and Tracking of Missing Person in Heterogeneous CCTV,  
 *National Research Foundation of Korea (NRF), Oct. 2018 ~ Jun. 2023.*  
+* Development of the High-Precision AR & VR Contents based on Smart Car Sensors,  
+*Institute for Information and Communication Technology Planning and Evaluation (IITP), Jan. 2017 ~ Dec. 2021.*  
 
 # Patents
 _________________
 ### International
+* Object Re-identification Apparatus and Method Thereof  
+*US18134352, Apr. 2023. (Application)*
+
+* Apparatus and Method for Re-identifying Objects  
+*US17977720, Oct. 2023. (Application)*
+
 * Person Re-identification Apparatus and Method  
 *US011321556B2, May. 2022. (Registration)*
 
@@ -105,6 +114,9 @@ _________________
 *PCT/KR2019/018413, Dec. 2019. (Application)*
 
 ### Domestic
+* Apparatus and Method for Domain Adaptive Semantic Segmentation Learning using Bi-Directional Contrastive Learning  
+*10-2023-0006491, Jan. 2023. (Application)*
+
 * Object Re-identification Apparatus and Method  
 *10-2022-0107755, Aug. 2022. (Application)*
 
@@ -128,11 +140,11 @@ IEEE Trans. Patter Anal. Mach. Intell. (TPAMI)
 IEEE Trans. Image Process. (TIP)  
 IEEE Trans. Circuits Syst. Video Technol. (TCSVT)  
 IEEE Trans. Multimedia (TMM)  
-In Adv. Neural Inf. Process. Syst. (NeurIPS) 2020  
-In Proc. IEEE Conf. Comput. Vis. Pattern Recognit. (CVPR) 2020/2021/2022  
-In Proc. IEEE Int. Conf. Comput. Vis. (ICCV) 2019/2021  
+In Adv. Neural Inf. Process. Syst. (NeurIPS) 2020/2023  
+In Proc. IEEE Conf. Comput. Vis. Pattern Recognit. (CVPR) 2020/2021/2022/2023  
+In Proc. IEEE Int. Conf. Comput. Vis. (ICCV) 2019/2021/2023  
 In Eur. Conf. Comput. Vis. (ECCV) 2020/2022  
-In AAAI Conf. Artificial Intelligence (AAAI) 2020  
+In AAAI Conf. Artificial Intelligence (AAAI) 2020/2023  
 
 
 # Teaching
