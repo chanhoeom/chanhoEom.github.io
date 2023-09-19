@@ -12,7 +12,13 @@ redirect_from:
 
 I have recently taken on the role of Assistant Professor at [Graduate School of Advanced Imaging Science, Multimedia, and Film (GSAIM), Chung-Ang University](https://gsaim.cau.ac.kr), Seoul, Korea.
 
-I received joint M.S. and Ph.D. degree at the School of [Electrical and Electronic Engineering, Yonsei University](https://ee.yonsei.ac.kr/ee_en/index.do), under the supervision of [Prof. Bumsub Ham](https://cvlab.yonsei.ac.kr). I worked as a research intern at [Naver CLOVA](https://naver-career.gitbook.io/en/) (Leader: [YoungJoon Yoo](https://sites.google.com/view/yjyoo3312)). I also have experience as an AI Researcher at [Samsung Advanced Institute of Technology (SAIT)](https://www.sait.samsung.co.kr), where I contributed to the Autonomous Machine Perception (AMP) project, working under the guidance of [ByungIn Yoo](https://scholar.google.co.kr/citations?user=JNgRAf8AAAAJ&hl=en).
+**<span style="color:green">NEWS!</span>**  
+:heavy_check_mark: This page is no longer updated. For the latest news and updates, please visit [Perceptual AI Lab](pailab.cau.ac.kr).
+<br>
+{: .notice--primary}
+
+
+I received joint M.S. and Ph.D. degree at the School of [Electrical and Electronic Engineering, Yonsei University](https://ee.yonsei.ac.kr/ee_en/index.do), under the supervision of [Prof. Bumsub Ham](https://cvlab.yonsei.ac.kr). I worked as a research intern at [Naver CLOVA](https://naver-career.gitbook.io/en/) (Leader: [Dr. YoungJoon Yoo](https://sites.google.com/view/yjyoo3312)). I also have experience as an AI Researcher at [Samsung Advanced Institute of Technology (SAIT)](https://www.sait.samsung.co.kr), where I contributed to the Autonomous Machine Perception (AMP) project, working under the guidance of [Dr. ByungIn Yoo](https://scholar.google.co.kr/citations?user=JNgRAf8AAAAJ&hl=en).
 
 My research interests include computer vision and machine/deep learning, particularly image/video retrieval, domain adaptation, and autonomous driving, but not limited to.
 
