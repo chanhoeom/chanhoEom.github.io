@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Chanho Eom"
 title_separator          : "-"
-name                     : &name "Chanho Eom (엄찬호)"
+name                     : &name "Chanho Eom"
 description              : &description "personal description"
 url                      : https://chanhoeom.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
