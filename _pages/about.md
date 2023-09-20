@@ -13,7 +13,7 @@ redirect_from:
 I have recently taken on the role of Assistant Professor at [Graduate School of Advanced Imaging Science, Multimedia, and Film (GSAIM), Chung-Ang University](https://gsaim.cau.ac.kr), Seoul, Korea.
 
 **<span style="color:green">NEWS!</span>**  
-<span style="color:red"> This page is no longer updated. For the latest news and updates, please visit [Perceptual AI Lab](pailab.cau.ac.kr).</span>
+<span style="color:red"> This page is no longer updated. For the latest news and updates, please visit [Perceptual AI Lab](https://pailab.cau.ac.kr).</span>
 <br>
 {: .notice--primary}
 
